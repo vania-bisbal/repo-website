@@ -5,6 +5,5 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNcaji3U=/?moveToViewport=4969,-1393,6607,3654&embedId=998522574236" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-![](../images/MT01/scorpio_blow.jpg)

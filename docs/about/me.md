@@ -1,6 +1,6 @@
 # About
 
-![](../images/gallery.jpg)
+![](../images/gallery.png)
 
 Hey, I take a look to my journey becoming a designer. 
 

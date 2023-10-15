@@ -2,6 +2,6 @@
 
 ![](../images/gallery.png)
 
-Hey, I take a look to my journey becoming a designer. 
+Hey, this year I decided to drop my corporate job as a Digital Product Manager to dive in design and digital fabrication. Take a look to my journey!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+You can connect with me on **[my website](https://vaniabisbal.wordpress.com/)**  aa **[my website](https://vaniabisbal.wordpress.com/)**

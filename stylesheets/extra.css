@@ -40,3 +40,26 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+/*body {
+  background-color: #120439;
+  height: 100%;
+  font-family: 'tradegothiclt-bold', sans-serif;
+}
+*/
+#homepage {
+  background-color: #ffffff;
+  font-family: 'tradegothiclt-bold', sans-serif;
+  font-size: 5em;
+  color: rgb(43, 43, 43);
+  text-transform: uppercase;
+  border-right: .05em solid;
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
+

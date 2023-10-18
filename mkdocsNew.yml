@@ -27,7 +27,6 @@ nav:
 
 
 
-
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
@@ -58,18 +57,17 @@ theme:
     logo: images/logos/crane.png
   favicon: images/logos/favicon-32x32.png
   features:
-    - instant
-    - header.autohide
-    - navigation.expand
-    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.instant.progress
     - navigation.prune
     - navigation.expand
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.expand
     - navigation.top
     - navigation.tracking
+
 
 plugins:
   - search

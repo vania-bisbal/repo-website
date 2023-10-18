@@ -2,7 +2,7 @@
 site_name: Vania Bisbal - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Vania Bisbal
-copyright: Copyright 2023 "Vania Bisbal" - GNU Free Documentation License
+copyright: Copyleft 2023 "Vania Bisbal" - GNU Free Documentation License
 repo_name: 'Website-repo : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -16,10 +16,10 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing/gitclass.md
-          - Documeting Design: term1/02 Documenting design.md
+          - Documeting Design: term1/02-Documenting-design.md
           - Prototyoing: term1/03-Prototyping.md
-          - AoWS: term1/04-Atlas of Weak Signals.md
-          - Machine Paradox: term1/05-Machine Paradox.md
+          - AoWS: term1/04-AtlasofWeakSignals.md
+          - Machine Paradox: term1/05-MachineParadox.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -45,27 +45,22 @@ extra:
 theme:
   name: material
   palette:
-      # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: black
     accent: purple
-
- font:
+  font:
     # See available fonts at https://fonts.google.com/
     text: Roboto
     code: Roboto Mono
-  
-  icon:
-    logo: images/logos/crane.png
+  logo: images/logos/crane.png
   favicon: images/logos/favicon-32x32.png
   features:
     - instant
-    - header.autohide
     - navigation.expand
     - navigation.indexes
     - navigation.instant
-    - navigation.instant.progress
-    - navigation.prune
-    - navigation.expand
+    # - navigation.prune
+    # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
@@ -77,8 +72,6 @@ plugins:
       fallback_to_build_date: true
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
   - extra
   - smarty
   - admonition

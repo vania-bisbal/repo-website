@@ -15,9 +15,9 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/01-Landing/gitclass.md
-          - Documeting Design: term1/02-Documenting-design.md
-          - Prototyoing: term1/03-Prototyping.md
+          - Landing: term1/01-Landing.md
+          - Design Studio: term1/02-DesignStudio.md
+          - Documeting Design: term1/03-DocumentingDesign.md
           - AoWS: term1/04-AtlasofWeakSignals.md
           - Machine Paradox: term1/05-MachineParadox.md
 

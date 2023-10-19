@@ -15,7 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/01-Landing/gitclass.md
+          - Landing: term1/01-Landing.md
           - Design Studio: term1/02-DesignStudio.md
           - Documeting Design: term1/03-DocumentingDesign.md
           - AoWS: term1/04-AtlasofWeakSignals.md
@@ -120,3 +120,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+  
+extra_javascript:
+  - javascripts/extra.js

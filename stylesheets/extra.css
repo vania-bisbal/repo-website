@@ -41,12 +41,7 @@
     font-size: 14px;
 }
 
-/*body {
-  background-color: #120439;
-  height: 100%;
-  font-family: 'tradegothiclt-bold', sans-serif;
-}
-*/
+
 #homepage {
   background-color: #ffffff;
   font-family: 'tradegothiclt-bold', sans-serif;
@@ -63,3 +58,8 @@
   }
 }
 
+/* hide title of each page
+/* custom.css */
+.md-main__inner > header.md-content__title {
+  display: none;
+}

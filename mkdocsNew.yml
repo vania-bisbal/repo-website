@@ -16,10 +16,10 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing/gitclass.md
-          - Documeting Design: term1/02 Documenting design.md
-          - Prototyoing: term1/03-Prototyping.md
-          - AoWS: term1/04-Atlas of Weak Signals.md
-          - Machine Paradox: term1/05-Machine Paradox.md
+          - Design Studio: term1/02-DesignStudio.md
+          - Documeting Design: term1/03-DocumentingDesign.md
+          - AoWS: term1/04-AtlasofWeakSignals.md
+          - Machine Paradox: term1/05-MachineParadox.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md

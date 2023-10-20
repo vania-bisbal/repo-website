@@ -59,7 +59,13 @@
 }
 
 /* hide title of each page
-/* custom.css */
-.md-main__inner > header.md-content__title {
-  display: none;
-}
+    /* custom.css */
+    .md-main__inner > header.md-content__title {
+      display: none;
+    }
+
+/* custom.css for having a full width image in about page */
+.full-width-image {
+  width: 100%;
+  height: auto;
+}    

@@ -1,9 +1,9 @@
-# About
+# About Me
 
-![](../images/gallery.png)
+![Gallery Image](../images/gallery.png){: .full-width-image }
 
-Hey, this year I decided to drop my corporate job as a Digital Product Manager to dive in design and digital fabrication. Take a look to my journey!
+Hey, this year I decided to drop my corporate job as a Digital Product Manager to dive into design and digital fabrication. Take a look at my journey!
 
-You can connect with me on **[my linkedin](https://www.linkedin.com/in/vania-bisbal)** or see some past experiences in **[my website](https://vaniabisbal.wordpress.com/)**
+## Connect with Me
 
- 
+You can connect with me on **[LinkedIn](https://www.linkedin.com/in/vania-bisbal)** or explore some of my past experiences on **[my website](https://vaniabisbal.wordpress.com/)**.

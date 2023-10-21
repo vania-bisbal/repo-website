@@ -8,10 +8,11 @@ A third-person point of view to systems implies designing for society in general
 
 I used to design digital experiences for companies, definitely third person perspective researches was my way to get to "the truth". I've always had in mind that i'm not the measure of things and i'm not the user persona, to reduce the bias in the design... but 1st person research sounds really magical as well. 
 
-For them, a third-person perspective is non-situated. The designer becomes an expert in the context of the study by taking an objective view and designs for people without involving users and professional experts. Key actions include contextual inquiry, ethnography, surveys, and interviews, to name a few. In a second-person perspective, the designer is socially involved and facilitates co-design sessions or other kinds of workshops or forms of participation with users and professional experts who are part of the context. A first-person perspective means that designers are personally involved since they are part of and actors in the system object of study. Designers design for themselves within the context and involve their own experiences in the process. 
-I'm intrigued about exploring first-person research. 
+For them, a third-person perspective is non-situated. The designer becomes an expert in the context of the study by taking an objective view and designs for people without involving users and professional experts. Key actions include contextual inquiry, ethnography, surveys, and interviews, to name a few.
+ In a second-person perspective, the designer is socially involved and facilitates co-design sessions or other kinds of workshops or forms of participation with users and professional experts who are part of the context. 
+ A first-person perspective means that designers are personally involved since they are part of and actors in the system object of study. Designers design for themselves within the context and involve their own experiences in the process. 
 
-Let's discover it. 
+I'm intrigued about exploring first-person research. Let's discover it. 
 
 **Roles in prototyping**
 
@@ -24,7 +25,7 @@ Moreover, I created the following prototype to conduct extra research with role 
 
 Who decides who is an coffee expert?
 
-![Gif that shows prototype](<../images/gifs/gifmaker_me (2).gif>)
+![Gif that shows prototype](<../images/gifs/gifmaker_me (3).gif>)
 
 Furthert explanation: Having many buttons and several options in a machine to use at home has given many negative reactions (results from 1st research) so with this proposed prototype Incapto will be able to understand if their users feel more comfortable with this concept and if they are willing to receive extra information related to the level in which they are to complement enhance their "expertise". 
 

@@ -17,7 +17,19 @@ Let's discover it.
 
 Roles in prototyping exercise: 
 
-Context: Carmen used to work in **[Incapto](https://incapto.com/?utm_term=incapto%20coffee&utm_campaign=%5BES%5D%20-%20BRAND%20-%20OK&utm_source=adwords&utm_medium=ppc&hsa_acc=3301245231&hsa_cam=20333415320&hsa_grp=150113872719&hsa_ad=664449375970&hsa_src=g&hsa_tgt=kwd-931450959115&hsa_kw=incapto%20coffee&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwp8OpBhAFEiwAG7NaEvRY9zEra_wF2MrcB8SFeBBdFup1Mkwc2xGWC-dOYauhzTOLUKURGhoC8DAQAvD_BwE)**. They designed a coffee machine prototype full with bottons to personalize the experience, but they run a test with different types of users to see if this actually worked for the users. This was a role 2 prototyping because its an instrument of inquiry, where they wanted to collect, record and measure this phenomena. 
+Context: Carmen used to work in **[Incapto](https://incapto.com/?utm_term=incapto%20coffee&utm_campaign=%5BES%5D%20-%20BRAND%20-%20OK&utm_source=adwords&utm_medium=ppc&hsa_acc=3301245231&hsa_cam=20333415320&hsa_grp=150113872719&hsa_ad=664449375970&hsa_src=g&hsa_tgt=kwd-931450959115&hsa_kw=incapto%20coffee&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwp8OpBhAFEiwAG7NaEvRY9zEra_wF2MrcB8SFeBBdFup1Mkwc2xGWC-dOYauhzTOLUKURGhoC8DAQAvD_BwE)**. Incapto protyped a new coffee machine with several options for the filter, water and type of coffee. Then they run tests with different types of users to see their reactions and gather insights of this new experience. This was a role 2 prototyping because they used the machine as an instrument of inquiry.
 
 
-Moreover, 
+Moreover, I created the following prototype to conduct extra research with role 3 of prototyping. This prototype embodies the concept that you can be a coffee expert at home because of the amount of coffee cups you've had with the machine. This board shows the progress, in levels, of your coffee expertise. 
+
+Who decides who is an coffee expert?
+
+![Gif that shows prototype](<../images/gifs/gifmaker_me (2).gif>)
+
+Furthert explanation: Having many buttons and several options in a machine to use at home has given many negative reactions (results from 1st research) so with this proposed prototype Incapto will be able to understand if their users feel more comfortable with this concept and if they are willing to receive extra information related to the level in which they are to complement enhance their "expertise". 
+
+Additional reflection: 
+I read the "Prototypes and prototyping in design research" publication really carefully to understand how to divide and dimension these new roles of prototyping in my regular prototyping exercises. It was hard but still figuring out how to identify and also how to explore and/or extend my research with this new perspective. 
+
+
+

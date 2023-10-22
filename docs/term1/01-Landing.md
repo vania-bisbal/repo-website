@@ -3,4 +3,4 @@ hide:
     - toc
 ---
 Check about my landing here!
-(<../images/ig-qr.jpeg>)
+![Instagram QR](../images/ig-qr.jpeg)

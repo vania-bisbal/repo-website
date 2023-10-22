@@ -33,4 +33,5 @@ Additional reflection:
 I read the "Prototypes and prototyping in design research" publication really carefully to understand how to divide and dimension these new roles of prototyping in my regular prototyping exercises. It was hard but still figuring out how to identify and also how to explore and/or extend my research with this new perspective. 
 
 
-
+# R+D Toolkit 
+![Alt text](../images/LimaBcn.jpg)

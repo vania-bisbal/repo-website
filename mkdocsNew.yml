@@ -10,16 +10,26 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - Home: index.md
+      body_class: home-page
   - About: about/me.md
+      body_class: about-page
   - Master project:
       - Initial ideas: project/project.md
+          body_class: initial-ideas-page
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
+              body_class: term1-landing-page
           - Design Studio: term1/02-DesignStudio.md
+              body_class: term1-design-studio-page
           - Documeting Design: term1/03-DocumentingDesign.md
+              body_class: term1-documenting-design-page
           - AoWS: term1/04-AtlasofWeakSignals.md
+              body_class: term1-AoWS-page
           - Machine Paradox: term1/05-MachineParadox.md
+              body_class: term1-MachineParadox-page
+          - Living With Your Own Ideas: term1/06-LWYOI.md
+              body_class: term1-LWYOI-page
 
       - Term 2:
           - digi: term1/01-Bootcamp.md

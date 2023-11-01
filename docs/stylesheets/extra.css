@@ -57,14 +57,23 @@
     border-color: transparent;
   }
 }
+/* Default background color */
+body {
+  background-color: var(--md-footer-bg-color);
+}
+
+/* Home page background color */
+body.home-page {
+  background-color: #ff0000; /* Red background color */
+}
 
 /* About page background color */
-#about-page {
+body.about-page {
   background-color: #00ff00; /* Green background color */
 }
 
 /* Initial Ideas page background color */
-#initial-ideas-page {
+body.initial-ideas-page {
   background-color: #0000ff; /* Blue background color */
 }
 

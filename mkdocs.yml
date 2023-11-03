@@ -2,7 +2,7 @@
 site_name: Vania Bisbal - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Vania Bisbal
-copyright: Copyright 2023 "Vania Bisbal" - GNU Free Documentation License
+copyright: Copyleft 2023 "Vania Bisbal" - GNU Free Documentation License
 repo_name: 'Website-repo : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -11,27 +11,22 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-      body_class: about-page
   - Master project:
       - Initial ideas: project/project.md
-          body_class: initial-ideas-page
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
-              body_class: term1-landing-page
           - Design Studio: term1/02-DesignStudio.md
-              body_class: term1-design-studio-page
           - Documeting Design: term1/03-DocumentingDesign.md
-              body_class: term1-documenting-design-page
           - AoWS: term1/04-AtlasofWeakSignals.md
-              body_class: term1-AoWS-page
           - Machine Paradox: term1/05-MachineParadox.md
-              body_class: term1-MachineParadox-page
-          - Living With Your Own Ideas: term1/06-LWYOI.md
-              body_class: term1-LWYOI-page
+
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
+
+
+
 
 extra:
   social:
@@ -50,30 +45,26 @@ extra:
 theme:
   name: material
   palette:
-      # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: black
     accent: purple
-
- font:
+  font:
     # See available fonts at https://fonts.google.com/
     text: Roboto
     code: Roboto Mono
-  
-  icon:
-    logo: images/logos/crane.png
+  logo: images/logos/crane.png
   favicon: images/logos/favicon-32x32.png
   features:
+    #- instant
+    - navigation.expand
+    #- navigation.indexes
+    - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.prune
-    - navigation.expand
-    - navigation.indexes
-    - navigation.expand
     - navigation.top
     - navigation.tracking
-
 
 plugins:
   - search
@@ -81,8 +72,6 @@ plugins:
       fallback_to_build_date: true
 
 markdown_extensions:
-  - attr_list
-  - md_in_html
   - extra
   - smarty
   - admonition
@@ -126,6 +115,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
-  
+
 extra_javascript:
   - javascripts/extra.js

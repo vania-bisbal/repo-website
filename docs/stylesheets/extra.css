@@ -63,12 +63,21 @@ body {
 }
 
 /* About page background color */
+<<<<<<< HEAD
 .about-page {
   background-color: #5b1e9c; /* Green background color */
 }
 
 /* Initial Ideas page background color */
 .initial-ideas-page {
+=======
+body.about-page {
+  background-color: #00ff00; /* Green background color */
+}
+
+/* Initial Ideas page background color */
+body.initial-ideas-page {
+>>>>>>> parent of e43321f (add image to about)
   background-color: #0000ff; /* Blue background color */
 }
 

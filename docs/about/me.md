@@ -1,6 +1,6 @@
 # About Me
 
-![Gallery Image](../images/gallery.png){: style="width: 100%; height: auto;"}
+![Vania Image](../images/vania-coco.png){: style="width: 100%; height: auto;"}
 
 Hey, this year I decided to drop my corporate job as a Digital Product Manager to dive into design and digital fabrication. Take a look at my journey!
 

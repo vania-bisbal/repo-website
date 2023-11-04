@@ -57,23 +57,16 @@
     border-color: transparent;
   }
 }
-/* Default background color */
-body {
-  background-color: var(--md-footer-bg-color);
-}
-
-/* About page background color */
-#about-page {
-  background-color: #00ff00; /* Green background color */
-}
-
-/* Initial Ideas page background color */
-#initial-ideas-page {
-  background-color: #0000ff; /* Blue background color */
-}
-
 /* hide title of each page
     /* custom.css */
     .md-main__inner > header.md-content__title {
       display: none;
     }
+    .md-typeset h1 {
+      font-family: 'Unbounded', sans-serif;  /* Replace 'Your Desired Font' with the actual font name */
+      font-size: 2.5em;  /* Adjust the size as needed */
+      line-height: 2.5em;  /* You can set the line height if needed */
+      font-weight: 700;  /* Adjust the font weight if needed */
+      text-align: left;  /* Adjust text alignment if needed */
+  }
+  

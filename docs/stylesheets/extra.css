@@ -57,13 +57,10 @@
     border-color: transparent;
   }
 }
-<<<<<<< HEAD
 /* Default background color */
 body {
   background-color: var(--md-footer-bg-color);
 }
-=======
->>>>>>> parent of 7bffcb7 (delete past yaml)
 
 /* About page background color */
 #about-page {

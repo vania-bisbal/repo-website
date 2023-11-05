@@ -8,4 +8,4 @@ Pre-courses helped me a lot to have a quick view of what we were going to see in
 
 Pictures explain it better; you can check my landing here!
 
-![IG qr code](../images/ig-qr-400x400.png) {align: left}
+![IG qr code](../images/ig-qr-400x400.png)

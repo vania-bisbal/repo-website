@@ -1,5 +1,5 @@
 # Design Studio
-![imaginary gallery]](../images/gallery.png)
+![imaginarygallery](../images/gallery.png)
 
 Some initial notes about first-person research...
 

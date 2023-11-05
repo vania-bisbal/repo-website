@@ -36,3 +36,10 @@ I read the "Prototypes and prototyping in design research" publication really ca
 
 # R+D Toolkit 
 ![Alt text](../images/LimaBcn.jpg)
+
+# Design Intervention 
+==============================================================
+
+Building this design intervention was a continuous evolution and a constant reminder of what a first-person perspective (1PP) entails.
+
+

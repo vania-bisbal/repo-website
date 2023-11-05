@@ -69,8 +69,3 @@
       font-weight: 700;  /* Adjust the font weight if needed */
       text-align: left;  /* Adjust text alignment if needed */
   }
-  
-/* round corners for images*/
-   <figure markdown style="overflow: hidden;">
-   ![vani-coco-400x400.png](images\vani-coco-400x400.png){: style="height: 250px; width: auto; border-radius: 10px; margin-right: 10px"}
-   </figure>

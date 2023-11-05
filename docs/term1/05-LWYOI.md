@@ -1,2 +1,2 @@
-# Machine Paradox
+# Living with your own ideas
 Hola

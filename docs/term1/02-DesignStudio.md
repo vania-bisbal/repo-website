@@ -1,4 +1,5 @@
 # Design Studio
+![imaginary gallery]](../images/gallery.png)
 
 Some initial notes about first-person research...
 
@@ -14,7 +15,7 @@ For them, a third-person perspective is non-situated. The designer becomes an ex
 
 I'm intrigued about exploring first-person research. Let's discover it. 
 
-**Roles in prototyping**
+## Roles in prototyping
 
 Roles in prototyping exercise: 
 

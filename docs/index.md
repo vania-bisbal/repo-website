@@ -1,5 +1,5 @@
 # Home
-![collage design space](images/home-collage.png)
+![collagenew](image.png)
 <br>
 <br>
 <div id="homepage">

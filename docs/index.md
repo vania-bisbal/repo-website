@@ -1,4 +1,4 @@
-# Home
+# Welcome
 <div id="homepage">
   <h1 id="typewriter-text"></h1>
 </div>

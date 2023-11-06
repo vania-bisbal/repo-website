@@ -69,3 +69,7 @@
       font-weight: 500;  /* Adjust the font weight if needed */
       text-align: left;  /* Adjust text alignment if needed */
   }
+
+body {
+    background-color: #faf9ec; /* Replace #your-color with your desired background color */
+}

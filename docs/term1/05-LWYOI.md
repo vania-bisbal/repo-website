@@ -4,8 +4,40 @@ This seminar was about experiencing the design process from a 1st person perspec
 
 Take a look to some of my notes of the seminar: 
 
-![A notenook note](../images/firstnote.jpeg) ![2nd note](../images/second-note.jpeg) 
-![3rd note](../images/third-note.jpeg) ![4th note](<../images/4th note.jpeg>)
+<!--*add images and gifs here of the build process* -->
+<!-- Markdown Content -->
+<div class="image-grid">
+  <img src="../images/firstnote.jpeg" class="grid-item" alt="Iaac">
+  <img src="../images/second-note.jpeg" class="grid-item" alt="atelier project">
+  <img src="../images/third-note.jpeg" class="grid-item portrait-image" alt="bcn street">
+  <img src="../images/4th note.jpeg" class="grid-item" alt="cnc">
+  <!-- Add more images as needed -->
+</div>
+
+<!-- CSS Styles -->
+<style>
+  /* Styles for the image grid container */
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    /*grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));*/ /*use this line of code to create a responsive grid that will place all images in one continuous row - each image will shrink accordignly*/
+    grid-gap: 10px;
+    /* Additional grid container styles can be added here */
+  }
+
+  /* Styles for individual grid items (images) */
+  .grid-item {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px; /* Add rounded corners to images */
+    /* Additional styles for grid items can be added here */
+  }
+  /* Styles for portrait images */ /*apply this class to any portrait photo in a grid to crop it to landscape: class="grid-item portrait-image" */
+.portrait-image {
+    object-position: center middle; /* Adjust this property to control the cropping of portrait images */
+  }
+</style>
 
 The first intervention was creating a Lo-Fi protoype around: How might I materialize my relationship with a *social contact* (as the concept), through an object that is my companion? 
 
@@ -31,8 +63,10 @@ When you use yourself as an instrument, you undergo various feelings, thoughts, 
 
 **• Did anything change about your way of working?**
 Definitely, I felt more inspired and motivated to work towards influencing and addressing topics related to climate change. It expanded my mindset to new boundaries.
+
 **• What does it mean for your future work?**
 I want to raise awareness about climate change and health topics in Latin America. Using my own waste made me reflect on my future work and learn that it is possible to actively cohabitate with your research space and thrive while conducting research. The first-person perspective (1PP) makes research more approachable, easier to do, and energizes the work. For me, it's challenging but inspirational to record my life.
+
 **• After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?**
 
 Yes, videos provided inspiration for further interventions I can undertake personally. They also made me think about related fields and how two people can have a completely different approach to the same topic, fostering collaborations between them.

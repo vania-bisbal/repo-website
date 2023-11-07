@@ -1,4 +1,8 @@
 # About Me
+<div id="aboutpage">
+  <h1 id="typewriter-text"></h1>
+</div>
+
 ![Vania image with a coconut](../images/vani-coco-400x400.png){ align=left }
 
 Hey, this year I decided to drop my corporate job as a Digital Product Manager to dive into design and digital fabrication. 

@@ -1,7 +1,5 @@
-# Welcome
-<div id="homepage">
-  <h1 id="typewriter-text"></h1>
-</div>
+# Welcome to my journey in Design for Emerging Futures
+
 
 ![collagenew](image.png)
 <br>

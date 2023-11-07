@@ -1,5 +1,4 @@
 # Living with your own ideas
-
 This seminar was about experiencing the design process from a 1st person perspective through a series of interventions within my life and Barcelona. 
 
 Take a look to some of my notes of the seminar: 

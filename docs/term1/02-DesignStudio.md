@@ -16,7 +16,6 @@ For them, a third-person perspective is non-situated. The designer becomes an ex
 I'm intrigued about exploring first-person research. Let's discover it. 
 
 ## Roles in prototyping
-
 Roles in prototyping exercise: 
 
 Context: Carmen used to work in **[Incapto](https://incapto.com/?utm_term=incapto%20coffee&utm_campaign=%5BES%5D%20-%20BRAND%20-%20OK&utm_source=adwords&utm_medium=ppc&hsa_acc=3301245231&hsa_cam=20333415320&hsa_grp=150113872719&hsa_ad=664449375970&hsa_src=g&hsa_tgt=kwd-931450959115&hsa_kw=incapto%20coffee&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwp8OpBhAFEiwAG7NaEvRY9zEra_wF2MrcB8SFeBBdFup1Mkwc2xGWC-dOYauhzTOLUKURGhoC8DAQAvD_BwE)**. Incapto protyped a new coffee machine with several options for the filter, water and type of coffee. Then they run tests with different types of users to see their reactions and gather insights of this new experience. This was a role 2 prototyping because they used the machine as an instrument of inquiry.

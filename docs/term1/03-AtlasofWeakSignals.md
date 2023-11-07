@@ -4,7 +4,6 @@ hide:
 ---
 
 # Atlas of Weak Signals
-
 Atlas of Weak Signals: a game, an uthopy, a debate or an inspirational seed. 
 
 **Everything started here:** 

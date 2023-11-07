@@ -1,5 +1,4 @@
 # Machine Paradox
-
 The Machine Paradox project was unexpected, challenging, and fun. Everything began with a division of skills so that the groups became multidisciplinary. Working with Ever, Jorge, Minnie, and Pancha was genuinely interesting due to the different skills each of us possessed. 
 
 ![!\[machineparadox schedule\](image.png)](../images/the-machine-paradox-schedule.jpeg)

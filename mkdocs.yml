@@ -36,11 +36,11 @@ extra:
     #- icon: fontawesome/brands/medium
     #  link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: "https://instagram.com/personal_mdef_gallery?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr"
     - icon: fontawesome/brands/linkedin
       link: "https://www.linkedin.com/in/vania-bisbal/"
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/vania-bisbal"
 
 theme:
   name: material

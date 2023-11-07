@@ -1,9 +1,9 @@
 # Hello!
-Welcome to my journey in Design for Emerging Futures
-<br>
-<br>
-
 ![collagenew](image.png)
+
+Welcome to my journey in the Master of Design for Emerging Futures
+<br>
+<br>
 
 
   

@@ -3,7 +3,7 @@
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">
-  <img src="../images/imagine an art picture out of radiolarian studies designed by ernst haeckel.png" class="grid-item" alt="Iaac">
+  <img src="../images/BioZero/dither_it_imagine an art picture out of radiolarian studies designed by ernst haeckel_2 (1).png" class="grid-item" alt="Iaac">
   <img src="../images/milenaisonline_art_out_of_radiolarian_designed_by_ernst_haeckel_68464da6-5d0b-48e3-9b7b-d29d2ffcc548.png" class="grid-item" alt="atelier project">
   <img src="../images/vania9117_art_out_of_radiolarian_designed_by_ernst_haeckel_076e6263-4105-4f23-a8c5-1cceb829654c.png" class="grid-item portrait-image" alt="bcn street">
   <img src="../images/vania9117_art_out_of_radiolarian_designed_by_ernst_haeckel_ebdc631f-8812-4f22-a7bc-11acdc31c71e.png" class="grid-item" alt="cnc">
@@ -37,6 +37,8 @@
 
 
  **Iron-enriched potatoes**
+
+ ![IRT1](../images/BioZero/1RTN.png)
 
 This research aims to explore a genetically modified organism related to a problem aligning with my field of interest. I have chosen to investigate neuroplasticity and its associated challenges.
 

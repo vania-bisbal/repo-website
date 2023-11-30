@@ -8,7 +8,7 @@ Feminist Data Set 2017
 What we want to automate
 mean images from Hito Steyerl : regenerative neural neds, she talks about statistical renders: https://newleftreview.org/issues/ii140/articles/hito-steyerl-mean-images
 
-*AI as an expression of current ideology*
+**AI as an expression of current ideology**
 
 Books
 The wretched of the screen - hito 
@@ -20,7 +20,7 @@ Invisible images (Article)  - Trevor Paglen  how images are used not for human b
 The end of Man - Joanna Zylinska 
 The perception machine - our photographic future between the Eye and AI
 
-*(industrial) AI as an infraestructure*
+**(industrial) AI as an infraestructure**
 
 Amazon Mechanical Turk - crowdsourcing marketplace where enterprises ask for small tasks. One of its uses is for generating 
 Moderators - AI generated or ppl working for bann some stuff from internet. 
@@ -37,7 +37,8 @@ Foreword by bill sherman - Borges has an appearce here ///Research this
 Ways of being - james bridle ///Research this
 Mentes paralelas - laura tripaldi ///Research this
 
-*Ai as an ubiquitous technology*
+**Ai as an ubiquitous technology**
+From promt to image: https://stablediffusionweb.com
 Check many *data sets* availables here: https://paperswithcode.com/datasets
 Check the technologies *data sets* availables here: https://paperswithcode.com/sota
 Also check keglle: https://www.kaggle.com/datasets

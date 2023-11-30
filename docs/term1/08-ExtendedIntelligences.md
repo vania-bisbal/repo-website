@@ -48,6 +48,7 @@ Microsoft Office
 Bard
 Adobe Photoshop
 https://github.com/openai/whisper
+https://wellcomecollection.org/
 
 *Project* Search for a dataset
 
@@ -91,7 +92,7 @@ Vickers, Ben; Allado-McDowell, K: Atlas of Anomalous AI. Ignota Books, 2020
 
 {{ insert_faculty() }}
 
-# El mal alumne ––Pedagogia crítica per a AI
+## El mal alumne ––Pedagogia crítica per a AI
 Extract from the book - Estampa
 **Compulsive experts** p. 55
 The world of art has been the starting point for two training sessions. In the first one, Wikiart's categorization categories and its image corpus were used to teach a network to recognize artistic styles. In this situation, artificial vision is forced to confront the idea of artistic style and movements, doing so from a purely formal perspective, avoiding any conceptual consideration, an area that, by definition, is beyond its understanding. In the second case, the training datasets consist of collections from various artistic institutions in Barcelona (MACBA, MNAC, Fundació Miró, Fundació Tàpies, Museu Picasso, and Museu del Disseny). The images in each collection are extremely heterogeneous. Forced to synthesize them, the network ends up producing absurd interpretations. In these cases, artificial vision serves to satirize the discourse on art based on classification, which inevitably homogenizes and simplifies artistic production (img. 24 and 25). While image classification networks are obsessive and compulsive, linking everything to the vocabulary they have learned, these two generate connections between any image and artistic vocabulary (img. 22).

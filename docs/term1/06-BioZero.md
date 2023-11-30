@@ -1,4 +1,4 @@
-# Bio Zero
+# Bio Zero & Agri Zero 
 
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
@@ -116,3 +116,7 @@ This exploration goes beyond the lab, emphasizing ethical considerations and the
 12. Narayanan, N., Beyene, G., Chauhan, R. D., Gaitán-Solis, E., Grusak, M. A., Taylor, N., & Anderson, P. (2015a). Overexpression of Arabidopsis VIT1 increases accumulation of iron in cassava roots and stems. Plant Science, 240, 170–181. https://doi.org/10.1016/j.plantsci.2015.09.007
 13. Rehman, A. ur, Masood, S., Khan, N. U., Abbasi, M. E., Hussain, Z., & Ali, I. (2020). Molecular basis of Iron Biofortification in crop plants; A step towards sustainability. Plant Breeding, 140(1), 12–22. https://doi.org/10.1111/pbr.12886
 Stein, A. J., Meenakshi, J. V., Qaim, M., Nestel, P., Sachdev, H. P. S., & Bhutta, Z. A. (2008). Potential impacts of iron biofortification in India. Social Science &amp; Medicine, 66(8), 1797–1808. https://doi.org/10.1016/j.socscimed.2008.01.006 
+
+
+# Making essential oils¶
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yX_C6PKxl8?si=iu0drPh1ioG3vKd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -3,7 +3,6 @@
   <h1 id="typewriter-text"></h1>
 </div>
 
-(images/Home/dither_it_vania9117_an_imagined_art_installation_exploring_organic_psiloc_ea987261-4f57-41eb-a170-3077a56f61cf.png) ![Alt text](images/Home/dither_it_vania9117_a_scupture_by_maurizio_cattelan_on_the_construction_s_2fe343f4-2779-4641-bae7-29c7311de79a.png) ![Alt text](images/Home/dither_it_vania9117_a_design_installation_made_up_of_waste_c240008b-c937-4ed8-bc42-794dd023ac0f.png)
 
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->

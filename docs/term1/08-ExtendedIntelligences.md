@@ -35,10 +35,14 @@ Ways of being - james bridle ///Research this
 Mentes paralelas - laura tripaldi ///Research this
 
 *Ai as an ubiquitous technology*
-Check all the techonologies availables here: https://paperswithcode.com/sota
+Check many *data sets* availables here: https://paperswithcode.com/datasets
+Check the technologies *data sets* availables here: https://paperswithcode.com/sota
+Also check keglle: https://www.kaggle.com/datasets
+' Check how gpt3 was trained in Google Gpt3 trainning dataset
 Dall-e3 Midjourney
 Microsoft Office
 Bard
 Adobe Photoshop
+https://github.com/openai/whisper
 
 *Project* Search for a dataset

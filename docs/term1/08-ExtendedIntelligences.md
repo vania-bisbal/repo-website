@@ -88,9 +88,6 @@ Steyerl, Hito: "Mean Images", New Left Review, 140/141, March-June 2023
 
 Vickers, Ben; Allado-McDowell, K: Atlas of Anomalous AI. Ignota Books, 2020
 
-## Faculty
-
-{{ insert_faculty() }}
 
 ## El mal alumne ––Pedagogia crítica per a AI
 Extract from the book - Estampa

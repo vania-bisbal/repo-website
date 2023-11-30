@@ -73,3 +73,77 @@
 body {
     background-color: #faf9ec; /* Replace #your-color with your desired background color */
 }
+/* ----------FACULTY CARDS---------- */
+
+.md-typeset .faculty-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.md-typeset.faculty-image {
+  /* display: flex;
+  align-content: flex-start;
+  justify-content: flex-start; */
+  float: left;
+}
+
+.md-typeset .faculty-card img.faculty-photo {
+  float: left;
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 20px;
+  padding: 0px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  overflow: hidden;
+  margin-bottom: 40px;
+  filter: grayscale(100%);
+}
+
+.md-typeset .faculty-bio {
+  margin-top: 25px;
+}
+
+.md-typeset .faculty-card h4 {
+  margin-top: 0px;
+  font-weight: 500;
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .faculty-card h3.name {
+  margin-top: 0px;
+  padding-top: 0px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  color: var(--md-typeset-color);
+}
+
+.md-typeset hr.divider-faculty {
+  border-bottom: 2px solid var(--md-typeset-table-color);
+  margin: 50px 0px 50px 0px;
+}
+
+.socials-faculty {
+  min-width: 20px;
+  height: 20px !important;
+  fill: var(--md-typeset-color);
+  position: relative;
+  opacity: 50%;
+  vertical-align: bottom;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px 15px 0px 0px;
+}
+
+.faculty-content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.md-typeset .faculty-content-bottom {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}

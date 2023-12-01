@@ -49,6 +49,8 @@ Bard
 Adobe Photoshop
 https://github.com/openai/whisper
 https://wellcomecollection.org/
+www.adam.harvey.studio/vframe/ ///Research him
+
 
 *Project* Search for a dataset
 

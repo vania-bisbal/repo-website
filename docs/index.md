@@ -1,8 +1,8 @@
-# @Master in Design for Emerging Futures
+# @MDEF
+
 <div id="homepage">
   <h1 id="typewriter-text"></h1>
 </div>
-
 
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->

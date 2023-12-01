@@ -1,9 +1,4 @@
-# @MDEF
-
-<div id="homepage">
-  <h1 id="typewriter-text"></h1>
-</div>
-
+# Explore @MDEF
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">
@@ -80,3 +75,8 @@ Welcome to my journey in the Master of Design for Emerging Futures📓
 
 
   
+
+<!--*<div id="homepage">
+  <h1 id="typewriter-text"></h1>
+</div>* -->
+

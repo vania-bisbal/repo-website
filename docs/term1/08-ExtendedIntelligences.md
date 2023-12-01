@@ -50,6 +50,16 @@ Adobe Photoshop
 https://github.com/openai/whisper
 https://wellcomecollection.org/
 www.adam.harvey.studio/vframe/ ///Research him
+https://teachablemachine.withgoogle.com/train/image
+Use colab to make requests to Apis easily:
+https://colab.research.google.com/drive/1v1QDp2xvT63N3HTojsMs-Pn6wel9WMVn#scrollTo=93AW3QCgKg3O 
+USe replicate to extract the API: https://replicate.com/account/api-tokens
+https://quickdraw.withgoogle.com/
+https://huggingface.co/ ai community
+
+**Latent Space**
+Abstract multidimensional space that encodes a meaningful internal representation of externally observed events. Usually they are high dimensional: 300, 512, 2048
+
 
 
 *Project* Search for a dataset

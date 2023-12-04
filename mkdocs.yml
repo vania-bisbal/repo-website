@@ -16,13 +16,15 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/01-Landing.md
-          - Design Studio: term1/02-DesignStudio.md
+          - Design Studio: 
+              - Design Space: term1/02-DesignStudio.md
               - Design Intervention 01: term1/Design/Intervention01.md
               - Design Intervention 02: term1/Design/Intervention02.md
           - AoWS: term1/03-AtlasofWeakSignals.md
           - Machine Paradox: term1/04-MachineParadox.md
           - Living with Your Own Ideas: term1/05-LWYOI.md
-          - Bio & Agri Zero: term1/06-BioZero.md
+          - Bio & Agri Zero: 
+              - Bio Art: term1/06-BioZero.md
               - Bio Zero: term1/BioAgri/Bio.md
               - GMO: term1/BioAgri/GMO.md
               - Agri Zero: term1/BioAgri/Agri.md

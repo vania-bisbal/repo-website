@@ -1,5 +1,4 @@
 # GMO Proposal
-
 ## Iron-enriched potatoes 
 
  ![IRT1](../images/BioZero/1RTN.png)

@@ -1,6 +1,5 @@
 # People 2 People Intervention
 AKA Futuristic Sexual Interactions Intervention
-
 In this intervention, my team and I were interested in gathering data from our bodies and/or our surroundings and using it to envision a futuristic situation that prompts reflection on how one can engage with this data.
 
 ## Some of Our Inspirations & Ideas
@@ -17,3 +16,4 @@ The concept of pleasure and physical enjoyment is no longer directed by person-t
 We used a Barduino to gather real-time data from a proximity sensor and connected it to Blender. We created a model in Blender that visually represented how the sensors could relate together and used a skin texture and light to enhance the visuals.
 
 ## Take a Look at Our Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jj0FoZHYX0?si=n5qm1BJTuVBu1Kyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

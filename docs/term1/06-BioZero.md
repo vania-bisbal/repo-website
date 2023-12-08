@@ -1,5 +1,4 @@
 # Bio Zero & Agri Zero 
-
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">

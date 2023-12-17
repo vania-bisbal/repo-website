@@ -60,4 +60,3 @@ The winery's parcels are strategically aligned with the natural flow of the rive
 In their commitment to sustainable practices, the winery eschews conventional pumping methods, opting instead for a gravity-based approach in their winemaking processes. This not only reduces energy consumption but also minimizes the potential environmental impact associated with conventional pumping systems.
 
 Furthermore, the winery employs natural rocks for the construction of its façade, a choice driven by the desire to keep the winery naturally cool. This eco-friendly construction method aligns with their overarching sustainability ethos, showcasing a holistic approach to viticulture that prioritizes environmental stewardship and harmonious integration with the surrounding ecosystem.
-

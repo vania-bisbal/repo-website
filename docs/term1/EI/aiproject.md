@@ -67,8 +67,9 @@ It was "the best idea" in the sense that we were highly engaged with the differe
 Being introduced to the open source of datasets and models is amazing (Kaggle, Hugging Face, Reflect, Colab, etc.). Having all of these available and easy to use is a new skill I definitely want to explore. Personally, I've been paying for Midjourney for the past few months because I'm really into generating speculative imaginary scenarios; here are some examples:
 ![collage](../../images/ai/collage-new.png)
 And during these days, I have already been exploring some text-to-image models that are much more interesting than Midjourney. However, as I try different models that can do the same thing, I become more aware of the biases that AI has. Here are some examples:
-![biased ai](../../images/ai/1.png)
+![biased ai](../../images/ai/1.png) <br>
 ![loop ai](../../images/ai/2.png)
+
 In that way, if this happens with image-to-text models where you can visually see the errors, it raises warnings for the biases of other models that are less tangible.
 
 Furthermore, due to this AI project, "love hacker," I modified the code so that I could have an emotion detector with my webcam.

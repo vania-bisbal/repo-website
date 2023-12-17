@@ -301,11 +301,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/08-ExtendedIntelligences.html</loc>
-         <lastmod>2023-12-17</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/09-designwithothers.html</loc>
          <lastmod>2023-12-17</lastmod>
          <changefreq>daily</changefreq>
@@ -332,6 +327,16 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/Design/Intervention02.html</loc>
+         <lastmod>2023-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/EI/aiproject.html</loc>
+         <lastmod>2023-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/EI/extendedIntelligences.html</loc>
          <lastmod>2023-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>

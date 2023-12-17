@@ -30,7 +30,7 @@ nav:
               - Agri Zero: term1/BioAgri/Agri.md
           - Documenting Design: term1/07-DocumentingDesign.md
           - Extended Intelligences:
-              - Extended Intelligences: term1/EI/extendedIntelligences.md
+              - Overview: term1/EI/ei-overview.md
               - AI Project: term1/EI/aiproject.md
           - Design with Others: term1/09-designwithothers.md
       - Term 2:

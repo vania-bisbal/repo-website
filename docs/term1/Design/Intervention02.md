@@ -1,5 +1,5 @@
-# People 2 People Intervention
-AKA Futuristic Sexual Interactions Intervention
+# Human2human
+## AKA Futuristic Sexual Interactions Intervention <br>
 In this intervention, my team and I were interested in gathering data from our bodies and/or our surroundings and using it to envision a futuristic situation that prompts reflection on how one can engage with this data.
 
 ## Some of Our Inspirations & Ideas

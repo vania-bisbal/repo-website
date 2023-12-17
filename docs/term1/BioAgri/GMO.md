@@ -1,22 +1,21 @@
 # GMO Proposal
 ## Iron-enriched potatoes 
-
- ![IRT1](../images/BioZero/1RTN.png)
-
+ ![IRT1](../../images/BioZero/1RTN.png)
 This research aims to explore a genetically modified organism related to a problem aligning with my field of interest. I have chosen to investigate **neuroplasticity** and its associated challenges.
 
 Neuroplasticity is a lifelong phenomenon occurring at all stages of life, with heightened significance during critical periods of development, particularly in early childhood. During this time, the brain is remarkably adaptable, and experiences can profoundly impact neural circuitry.
 
 In infancy and early childhood, the brain undergoes rapid growth and development, representing a sensitive period when neural circuits are highly malleable, and the brain is particularly responsive to environmental stimuli. Nutrition plays a crucial role in supporting brain development and neuroplasticity, especially during the rapid growth of early childhood. This involves forming new connections and enhancing **synaptic plasticity**.
 
-Several nutrients are essential for optimal brain function and the promotion of neuroplasticity. Here are some key nutrients and their roles:
-1. Omega-3 Fatty Acids: Essential for the development and function of the brain, particularly docosahexaenoic acid (DHA). Commonly found in fatty fish, flaxseeds, chia seeds, and walnuts.
-2. Iron: Critical for the development of myelin, a substance that insulates nerve fibers and facilitates efficient communication between neurons. Iron deficiency, especially during early childhood, can lead to cognitive deficits and impair neuroplasticity. Good sources include lean meats, beans, lentils, and fortified cereals.
-3. Zinc: Involved in various neurochemical processes and essential for the formation and function of synapses. Found in meat, dairy products, nuts, and whole grains.
-4. Vitamins B6, B9 (Folate), and B12: Important for the synthesis of neurotransmitters. Adequate levels support cognitive function and may influence neuroplasticity. Found in leafy green vegetables, legumes, poultry, fish, and fortified cereals.
-5. Vitamin D: Linked to brain development and cognitive function. Obtained from sunlight exposure, fatty fish, fortified dairy products, and egg yolks.
-6. Choline: A precursor to acetylcholine, a neurotransmitter important for memory and learning. Found in eggs, meat, fish, and certain plant-based sources like soybeans.
-7. Protein: Essential for the synthesis of neurotransmitters and overall brain structure and function. Good sources include meat, poultry, fish, dairy products, beans, and legumes.
+Several nutrients are essential for optimal brain function and the promotion of neuroplasticity. Here are some key nutrients and their roles:<br><br>
+
+1. Omega-3 Fatty Acids: Essential for the development and function of the brain, particularly docosahexaenoic acid (DHA). Commonly found in fatty fish, flaxseeds, chia seeds, and walnuts.<br>
+2. Iron: Critical for the development of myelin, a substance that insulates nerve fibers and facilitates efficient communication between neurons. Iron deficiency, especially during early childhood, can lead to cognitive deficits and impair neuroplasticity. Good sources include lean meats, beans, lentils, and fortified cereals.<br>
+3. Zinc: Involved in various neurochemical processes and essential for the formation and function of synapses. Found in meat, dairy products, nuts, and whole grains.<br>
+4. Vitamins B6, B9 (Folate), and B12: Important for the synthesis of neurotransmitters. Adequate levels support cognitive function and may influence neuroplasticity. Found in leafy green vegetables, legumes, poultry, fish, and fortified cereals.<br>
+5. Vitamin D: Linked to brain development and cognitive function. Obtained from sunlight exposure, fatty fish, fortified dairy products, and egg yolks.<br>
+6. Choline: A precursor to acetylcholine, a neurotransmitter important for memory and learning. Found in eggs, meat, fish, and certain plant-based sources like soybeans.<br>
+7. Protein: Essential for the synthesis of neurotransmitters and overall brain structure and function. Good sources include meat, poultry, fish, dairy products, beans, and legumes.<br>
 
 Within this array of nutrients, I have chosen to delve deeper into **Iron**. Iron deficiency anemia is a global issue affecting 2 billion people worldwide, particularly women and children [3]. One of my communities of interest is Latin America, specifically Peru, where anemia remains prevalent, especially in rural highland areas. Anemia poses a significant burden to smallholding farmers and their families.
 

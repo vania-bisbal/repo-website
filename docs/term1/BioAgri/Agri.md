@@ -14,10 +14,10 @@ At Valdaura, we also collected tons of Laurel leaves to learn about the process 
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">
-  <img src="../images/BioZero/valdaura&jeep.jpeg" class="grid-item" alt="valdaura">
-  <img src="..images/BioZero/solarhouse.jpeg" class="grid-item" alt="solarhouse">
-  <img src="../images/BioZero/minigerminados.jpeg" class="grid-item portrait-image" alt="germinados">
-  <img src="../images/BioZero/fablabvald.jpeg" class="grid-item" alt="fablab">
+  <img src="../../images/BioZero/valdaura&jeep.jpeg" class="grid-item" alt="valdaura">
+  <img src="../../images/BioZero/solarhouse.jpeg" class="grid-item" alt="solarhouse">
+  <img src="../../images/BioZero/minigerminados.jpeg" class="grid-item portrait-image" alt="germinados">
+  <img src="../../images/BioZero/fablabvald.jpeg" class="grid-item" alt="fablab">
   <!-- Add more images as needed -->
 </div>
 

@@ -1,4 +1,4 @@
-# Bio Bag
+![Bio Bag](<../images/Bio Plastic Bag.png>)
 ## Creating a Bag with Gelatine based bioplastics and Laser Cut Mold
 <!--- update the following link with a picture - banner type 
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 
@@ -23,6 +23,7 @@ Comming Soon
 Creatives and professionals, such as producers, designers, architects, biologists,  SMEs, and companies with interest in sustainability and alternative innovative biobased materials. Take a look at the Rotation station workshop if you wanna run a biomaterial demonstration    --->
 
 **Take a look to this resources before starting with biomaterials**
+
         - [The Secrets of Bioplastic by Clara Davis](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)
         - [Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
         - [Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)

@@ -3,7 +3,7 @@
 title: Creating a Bag with Gelatine based bioplastics and Laser Cut Mold
 ---
 
-# Gelatine based bioplastics with Laser Cut Casting
+## Gelatine based bioplastics with Laser Cut Casting
 <!--- update the following link with a picture - banner type ---> 
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500}
 

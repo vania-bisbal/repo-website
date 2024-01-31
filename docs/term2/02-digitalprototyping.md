@@ -4,8 +4,8 @@
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 
 
 | Complexity | Skills |  Duration |   
-| :---:| :---------: | :--: | 
-| Medium | Bio Plastics & Lasser |5d |
+| :---:| :---------: | :---: | 
+| Medium | Bio Plastics & Lasser |5 days |
 
 ## Introduction and context
 The activity aims at introducing participants to bioplastics and Laser Cutting

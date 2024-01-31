@@ -1,11 +1,11 @@
-# BioPlastics and Lasser Cutting
+# Bio Bag
 ## Creating a Bag with Gelatine based bioplastics and Laser Cut Mold
 <!--- update the following link with a picture - banner type 
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 
 
 | Complexity | Skills |  Duration |   
 | :---:| :---------: | :---: | 
-| Medium | Bio Plastics & Lasser |5 days |
+| Medium | Bio Plastics & Laser |5 days |
 
 ## Introduction and context
 The activity aims at introducing participants to bioplastics and Laser Cutting
@@ -18,14 +18,14 @@ Update with your audio file
 </audio> download the audiofile here: imgs/00_WP2/audio/ --->
 
 
-**Target audience and context of use**  
+<!--- **Target audience and context of use**  
 Comming Soon
-<!--- Creatives and professionals, such as producers, designers, architects, biologists,  SMEs, and companies with interest in sustainability and alternative innovative biobased materials. Take a look at the Rotation station workshop if you wanna run a biomaterial demonstration    --->
+Creatives and professionals, such as producers, designers, architects, biologists,  SMEs, and companies with interest in sustainability and alternative innovative biobased materials. Take a look at the Rotation station workshop if you wanna run a biomaterial demonstration    --->
 
 **Take a look to this resources before starting with biomaterials**
-[The Secrets of Bioplastic by Clara Davis](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)
-[Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
-[Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)
+        - [The Secrets of Bioplastic by Clara Davis](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)
+        - [Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
+        - [Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)
 
 ## Preparation and materials
 Dive into the references provided in this page, select your recipes and create your sample. 

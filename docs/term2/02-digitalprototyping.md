@@ -1,7 +1,7 @@
 # BioPlastics and Lasser Cutting
 ## Creating a Bag with Gelatine based bioplastics and Laser Cut Mold
-<!--- update the following link with a picture - banner type ---> 
-![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500}
+<!--- update the following link with a picture - banner type 
+![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 
 
 | Complexity | Skills |  Duration |   
 | :---:| :---------: | :--: | 
@@ -55,9 +55,9 @@ Prepare in advance:
 
 	=== "Materials"
        
-        * 4gr Gelatine
-        * 60ml Water
-        * 8gr  Glycerin
+        * 12gr Gelatine (Biopolymer)
+        * 60ml Water (Solvent)
+        * 7.2gr  Glycerine 9% (Plasticizer)
         * Natural Colorings: Gold Mica and Red Mica 
 
 
@@ -103,7 +103,7 @@ Prepare in advance:
 - Use a lab coat or apron for keeping yourself clean  
 - Tie your hair up  
 
-Take a look to the process: [video]
+Take a look to the process: <iframe width="560" height="315" src="https://www.youtube.com/embed/J5LSycq1j4I?si=DYsmAep7_IFKdJaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Reflection**
 TBD

@@ -1,4 +1,4 @@
-![Bio Bag](<../images/Bio Plastic Bag.png>)
+![Bio bag cover](<../images/plastic bag cover.png>)
 ## Creating a Bag with Gelatine based bioplastics and Laser Cut Mold
 <!--- update the following link with a picture - banner type 
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 

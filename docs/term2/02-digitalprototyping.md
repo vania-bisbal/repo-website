@@ -69,7 +69,7 @@ Prepare in advance:
     === "step 1: Prepare the Mold"
         * Create your design for the bag. 
         * Draw the design in a 2D software (Ex.Illustrator)
-        * Save it as .dwf and open it in Rhino for lasser configurations 
+        * Save it as .dxf and open it in Rhino for lasser configurations 
         * Set up the lasser cutting space and machine 
         * Select the colors for cutting correctly 
         * Take the final pieces and paste it on a flat material with super glue. 
@@ -106,8 +106,6 @@ Prepare in advance:
 
 Take a look to the process: <iframe width="560" height="315" src="https://www.youtube.com/embed/J5LSycq1j4I?si=DYsmAep7_IFKdJaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Reflection**
-TBD
 
 
 

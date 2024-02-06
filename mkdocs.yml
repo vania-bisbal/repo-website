@@ -35,7 +35,10 @@ nav:
           - Design with Others: term1/09-designwithothers.md
       - Term 2:
           - Future Talks: term2/01-futuretalks.md
-          - Digital Prototyping: term2/02-digitalprototyping.md
+          - Digital Prototyping:
+              - Bio-bag: term2/DigitalPrototyping/biobag.md
+              - Mycelium: term2/DigitalPrototyping/mycelium.md
+              
 
 
 

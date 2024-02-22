@@ -5,10 +5,10 @@
 
 | Complexity | Skills |  Duration |   
 | :---:| :---------: | :---: | 
-| Medium | Bio Plastics & Laser |3 days |
+| Medium | Mycelium & 3D printing |1 week |
 
 ## Introduction and context
-The activity aims at introducing participants to bioplastics and Laser Cutting
+The activity aims at introducing participants to 3D printing and mycelium growing
 
 <!--- 
 Update with your audio file
@@ -22,22 +22,12 @@ Update with your audio file
 Comming Soon
 Creatives and professionals, such as producers, designers, architects, biologists,  SMEs, and companies with interest in sustainability and alternative innovative biobased materials. Take a look at the Rotation station workshop if you wanna run a biomaterial demonstration    --->
 
-**Take a look to this resources before starting with biomaterials**
-
-        - The Secrets of Bioplastic by Clara Davis [book](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)
-        - [Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
-        - [Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)
 
 ## Preparation and materials
-Dive into the references provided in this page, select your recipes and create your sample. 
-
 Be careful. Check you have all the tools and materials needed before starting. Enjoy the process! 
+
 Prepare in advance:
-- 2D file ready to be laser cut
-- Acrylic or similar material to use for the mold 
-
-
-
+- Create a 3D Rhino file ready to 3D printed
 
 !!! example " Equipment, Tools and Materials"
 
@@ -48,69 +38,52 @@ Prepare in advance:
 
 	=== "Tools"
         	  
-        * Pot 
-        * Stove
-        * Digital scale
-        * Syringe
+        * 3D printer 
+        * Filament
 
 
 	=== "Materials"
        
-        * 12gr Gelatine (Biopolymer)
-        * 60ml Water (Solvent)
-        * 7.2gr  Glycerine 9% (Plasticizer)
-        * Natural Colorings: Gold Mica and Red Mica 
+        * Mycelium
+        * Water
 
-
+        
 ##Step by Step Instructions
 
 !!! example "STEP BY STEP overview"
 
-    === "step 1: Prepare the Mold"
-        * Create your design for the bag. 
-        * Draw the design in a 2D software (Ex.Illustrator)
-        * Save it as .dxf and open it in Rhino for lasser configurations 
-        * Set up the lasser cutting space and machine 
-        * Select the colors for cutting correctly 
-        * Take the final pieces and paste it on a flat material with super glue. 
+    === "step 1: Prepare the 3D Mold"
+        * Create your 3D model in Rhino or any other 3D sw. 
+        * Save it and open it Ultimaker Cura to slice it for the 3D printer. 
+        * Set up the base, walls, type of filament etc. 
+        * Send to print and observe at least the first 3 layers to see if its doing ok. 
 
-	=== "step 2: Prepare the Gelatine mix"
+
+	=== "step 2: Prepare the Mycelium mix"
         * Add the Gelatine to the water.
-        * Warm the mix until it becomes homogeneous, do not boil .
+        * Warm the mix until it  becomes homogeneous, do not boil .
         * Add the glycerine and stir.
         * Add the selected colors and stir again.
 
-	=== "step 3: Pour and eliminate bubbles"
+	=== "step 3: Place the Mycelium in the mold"
         * Take the Gelatine polymer mix. 
         * Pour the mix onto the mold.
         * Tap the mold so the mix distributes evenly over the surface.
         * Remove bubbles with a scissors. 
         * Add extra colorful decoration 
 
-	=== "step 4: Dry "
-        * Let it dry for 5 days
+	=== "step 4: Grow "
+        * Let it grow for 1 week in the dark. 
 
-        === "step 6: Removal "
-        * Take out of the frame after 5 days.
-        * Pull slowly from the border of the bioplastic until completely detached.
-        * Use a cutter if needed of correct the borders.
+      
 
-
-**Safety rules & Tips**  
-
--  Working with an induction heat plate is safer  
-- Do not stand inhaling over the pot if there is alcohol in the recipe  
-- Use towels to pick up hot pots  
-- Use a lab coat or apron for keeping yourself clean  
-- Tie your hair up  
-
-Take a look to the process: <iframe width="560" height="315" src="https://www.youtube.com/embed/J5LSycq1j4I?si=DYsmAep7_IFKdJaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Reflection**
 I began this first trial searching for some inspiration in pinterest and tiktok and found some cool experiences. 
 Then as im just initiating with Rhino I decided to search for Rhino files in thingiverse that I could use as a base for 3d printing the mold. 
-Here are some of the files I found cool: 
+
+* Here are some of the files I found cool: * 
 [Flower pot] https://www.thingiverse.com/thing:3598511 - it has a system for an easy removal of the cast if you are not using a flexible material. 
 [Duny mold] https://www.thingiverse.com/thing:438250 - cute character which prints in 10 minutes.
 [Mold for planter] https://www.thingiverse.com/thing:4089572/files

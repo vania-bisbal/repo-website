@@ -5,8 +5,8 @@
 In this course, we've explored the dynamics of a data-driven world, creating artifacts to measure both analogue and digital activities. It offered a solid introduction to key concepts in physical computing and deepened my understanding of sourcing, processing, storage, and consumption of data. We learned to distinguish data from information, formulating hypotheses, and crafting research questions. 
 
 ## How to ask the right questions? 
-To collect data, to make inferences
-![Alt text](<../images/measuringtheworld/Screenshot 2024-03-03 215716.png>)
+To collect data, to make inferences...
+![question](<../images/measuringtheworld/Screenshot 2024-03-03 223759.png>)
 ![measurewithdata](../images/measuringtheworld/data.png)
 
 ## About our metodology
@@ -14,20 +14,43 @@ To collect data, to make inferences
 from broad question, understand, observe, analyse, take decisions *in a way that* 
 
 ## Resources
-![Alt text](<../images/measuringtheworld/Screenshot 2024-03-03 215716.png>)
-https://hackmd.io/-79CqG_URs-MYaN1qdrmTA?view
-https://www.planet.com/
-https://www.freethink.com/series/the-new-space-race/tiny-satellites-with-a-huge-impact
-https://www.pixalytics.com/
-https://open.spotify.com/track/5IzANmozBOBgDCZo2tLP1Q?si=b75b42956ec44012
-Toolkit Making Sense (free download)
-copernicus - european effort
-reading of light ldr to measure the intensity of colors (projects/type/sensemaking)
+- ![Alt text](<../images/measuringtheworld/Screenshot 2024-03-03 215716.png>)
+- https://hackmd.io/-79CqG_URs-MYaN1qdrmTA?view
+- https://www.planet.com/
+- https://www.freethink.com/series/the-new-space-race/tiny-satellites-with-a-huge-impact
+- https://www.pixalytics.com/
+- https://open.spotify.com/track/5IzANmozBOBgDCZo2tLP1Q?si=b75b42956ec44012
+- Toolkit Making Sense (free download)
+- copernicus - european effort
+- reading of light ldr to measure the intensity of colors (projects/type/sensemaking)
 
 ![](../../images/term2/Measuring/Measuring.jpg)
 
 
 ### Presentation 
+I gathered with  Anna, Carmen Francisca, Sophie to because we were interested in the relationship between technology, emotions and identity. We began a conversation regarding different topics we would be interested to address until we trace a common objective: 
+We want to use music to make people feel happier.
+This objective was fun and interesting to us, because we could use music as a trigger to collect human-data. 
+
+Then we wrote down some questions that would expand our objective and would help us to find the right direction. 
+# Questions: 
+- does musical therapy work?
+- does binaural beats make you feel relaxed?
+- is music affecting your mood?
+- does music help you connect with people? 
+- does listening to sad music help?
+
+The next step was choosing a way of collecting data to be the centered of our project. We wanted to use the camera with the Raspberry pie to understand how poeple behave with music in terms of reactions, facial expressions and motion. We have also developed previously an AI emotion recognition tool that could have been interesting to join. But in the end our group was chosen to do the physical data collection. 
+
+# Null hyphothesis
+*If I can prove that something cannot be false, then is true.* In the context of hypothesis testing, when evidence consistently supports a statement and it withstands rigorous testing without being proven false, it lends credibility to the truth of that statement. This concept aligns with the scientific method's emphasis on empirical evidence, verification, and falsifiability, highlighting the importance of robust testing and validation to establish the validity of scientific claims.
+
+At this moment we define the *null hypothesis*: *music cannot make you change your emotions.* 
+
+Using Domestic Data Streamers as inspiration, we planned a physical intervention in IaaC to test our hypothesis. 
+
+<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;">Here you can read our [Journal.](https://hackmd.io/XC00gQSFT9SQP1POiJPHgA?both) explaining the process</span>
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -36,31 +59,6 @@ reading of light ldr to measure the intensity of colors (projects/type/sensemaki
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF8SojQySw&#x2F;F-ctR9KF_G1oswEQUDf-LA&#x2F;view?utm_content=DAF8SojQySw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Let’s get physical</a> de so.marandon
-
-<span style="background-color: #FFFCFA; padding: 10px; border: 1px solid #699ADA;">If you want to see the actual technical parts and process of the activity, you can read our [Journal.](https://hackmd.io/XC00gQSFT9SQP1POiJPHgA?both)</span>
-
-# Reflection
-
-I gathered with  Anna, Carmen Francisca, Sophie to because we were interested in the relationship between technology, emotions and identity. We began a conversation regarding different topics we would be interested to address until we trace a common objective: 
-We want to use music to make people feel happier
-This objective was fun and interesting to us, because we could use music as a trigger to collect human-data. 
-
-Then we wrote down some question that would expand our objective and would help us to find the right direction. 
-Questions: 
-does musical therapy work?
-does binaural beats make you feel relaxed?
-is music affecting your mood?
-does music help you connect with people? 
-does listening to sad music help?
-
-Null hyphothesis
-If I can prove that something cannot be false, then is true. ** revisar
-
-The next step was choosing a way of collecting data to be the centered of our project. We wanted to use the camera with the Raspberry pie to understand how poeple behave with music in terms of reactions, facial expressions and motion. We have also developed previously an AI emotion recognition tool that could have been interesting to join. But in the end our group was chosen to do the physical data collection. 
-
-At this moment we define the null hypothesis: music cannot make you change your emotions. 
-
-Using Domestic Data Streamers as inspiration, we planned a physical intervention in IaaC to test our hypothesis. 
 
 
 # Next Steps, here are some books and courses: 

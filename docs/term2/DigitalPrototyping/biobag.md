@@ -24,9 +24,10 @@ Creatives and professionals, such as producers, designers, architects, biologist
 
 **Take a look to this resources before starting with biomaterials**
 
-        - [The Secrets of Bioplastic by Clara Davis](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)
-        - [Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)
-        - [Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)
+- **[The Secrets of Bioplastic by Clara Davis](https://issuu.com/nat_arc/docs/the_secrets_of_bioplastic_)**
+- **[Bio Plastic Cook Book by Anastasia Pistofidou](https://issuu.com/nat_arc/docs/bioplastic_cook_book_3)**
+- **[Remix el Barrio](https://issuu.com/iaac/docs/remix_el_barrio_catalogo_es__1__compressed)**
+
 
 ## Preparation and materials
 Dive into the references provided in this page, select your recipes and create your sample. 
@@ -106,7 +107,7 @@ Prepare in advance:
 
 Take a look to the process: <iframe width="560" height="315" src="https://www.youtube.com/embed/J5LSycq1j4I?si=DYsmAep7_IFKdJaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Reflection 
+Creating this biobag was really fun. We drew inspiration from Pinterest, and then we decided to make a bag. There were two options available for the procedure: creating the biomaterial and then laser-cutting it, or making an acrylic mold, laser-cutting it, and then pouring the biomaterial into the mold. We chose the second option for efficiency because the biomaterial needs to dry for multiple days. It was better to let it dry, and the only remaining step would be sealing it on the sides. We also managed to add some design with extra colors of gelatin, and we used the same material as glue.
 
-
-
-
+Even though the result exceeded my expectations, I think I could make a second and third attempt because right now, the bag has a bit of an odor, and this material is not very resistant, so you cannot use it as an actual bag.

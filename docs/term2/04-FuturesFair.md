@@ -1,4 +1,4 @@
-# Futures Fair
+## Futures Fair
 Future Talks is a series of conversations with friends of ELISAVA and Fab Lab Barcelona, exploring the nature of emerging futures from the past to the present and beyond.
 
 In this seminar, we collaborated with the School of Digital Arts at Manchester Metropolitan University to deep dive into talks about Blockchain, NFTs, and DAOs. We explored different ways of developping a governance model around a context we would be interested to solve through a collaborative proposal. 
@@ -31,16 +31,3 @@ We are proposing a Kit to help us reconnect with nature at home. This Kit contai
 
 ----
 Building this project made me understand how DAOs can be built and work. It also made me reflect and think about the chosen topic and how a collabotative effort might be really helpful for emerging futures. Even though I already knew how NFTs and blockchain work, this seminar helped me to discover other ways to value NFTs than just digital art. 
-
-
-
-
-
-
-
-
-
-
-
-
-

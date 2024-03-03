@@ -1,5 +1,4 @@
-![Bio bag cover](<../images/plastic bag cover.png>)
-## Creating a XX with mycelium and 3d printed mold
+## Creating a coffee bean with mycelium and 3d printed mold
 <!--- update the following link with a picture - banner type 
 ![Learning paths](../../../../imgs/00_WP2/curiosity/iaac/alginate-landscape.png){width=500} ---> 
 
@@ -77,22 +76,20 @@ Prepare in advance:
 
       
 
-
-
 **Reflection**
 I began this first trial searching for some inspiration in pinterest and tiktok and found some cool experiences. 
 Then as im just initiating with Rhino I decided to search for Rhino files in thingiverse that I could use as a base for 3d printing the mold. 
 
 * Here are some of the files I found cool: * 
-[Flower pot] https://www.thingiverse.com/thing:3598511 - it has a system for an easy removal of the cast if you are not using a flexible material. 
-[Duny mold] https://www.thingiverse.com/thing:438250 - cute character which prints in 10 minutes.
-[Mold for planter] https://www.thingiverse.com/thing:4089572/files
-[Coffee Bean soap] https://www.thingiverse.com/thing:2132254
-[FibonacciShell]https://www.thingiverse.com/thing:955219 
- 3D Printed and Mycelium Grown Beehives https://www.instructables.com/3D-Printed-and-Mycelium-Grown-Beehives/
-Another pot but taller https://cults3d.com/en/3d-model/home/igneous-brim-vase 
-Self watering plant pot https://cults3d.com/en/3d-model/home/self-watering-plant-pot
-[oval ribbed rossette mold]https://cults3d.com/en/3d-model/art/oval-ribbed-rosette-relief-and-mold-3d-print-model
+**[Flower pot](https://www.thingiverse.com/thing:3598511)** - it has a system for an easy removal of the cast if you are not using a flexible material. 
+**[Duny mold](https://www.thingiverse.com/thing:438250)**- cute character which prints in 10 minutes.
+**[Mold for planter](https://www.thingiverse.com/thing:4089572/files)**
+**[Coffee Bean soap](https://www.thingiverse.com/thing:2132254)**
+**[FibonacciShell]https://www.thingiverse.com/thing:955219)**
+**[3D Printed and Mycelium Grown Beehives](https://www.instructables.com/3D-Printed-and-Mycelium-Grown-Beehives/)**
+**[Another pot but taller](https://cults3d.com/en/3d-model/home/igneous-brim-vase)**
+**[Self watering plant pot](https://cults3d.com/en/3d-model/home/self-watering-plant-pot)**
+**[oval ribbed rossette mold](https://cults3d.com/en/3d-model/art/oval-ribbed-rosette-relief-and-mold-3d-print-model)**
 
 
 

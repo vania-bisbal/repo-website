@@ -24,12 +24,12 @@ In this activity, we tried with various prompts to see how the images would chan
 [Modmatrix](https://modmatrix.app/) is a simple AI project prototyping tool, inspired by synthesizer modulation matrices.
 <img src="../images/ai/modmatrixx.png" alt="prompt2" style="border-radius: 10px;"> 
 <img src="../images/ai/5.png" alt="prompt3" style="border-radius: 10px;"> 
-We used the app to play with text to image, audio to text and text to model. I liked the feature of the Optional Modifying Prompt because I think is an easy way to create a character, story, filter on top of GPT-4 intelligence. This helps you prototype and pivot ideas really fast. Moreover I used the app to explore the following: 
-1. *Original description of the V60 Dripper (text) to image.* The output wasnt really good, I think its because the author wrote the description in a more inspirational and poetic way rather than descriptive. 
-2. *Image of a V60 (image) to text and then to image.* This output was much better than the first one, so we now can assume that the description of this model is very accurate. 
-3. *Previous GPT-4 description (Text) to Zoo CAD model.* This output was really bad, Kitty CAD still has to improve. 
-4. *Text to 3D - Simple text "Coffee dripper V60" in Zoo CAD.* The output was much better than the previous one, it seems that the dataset has a good reference for basic things. 
-5. "Text to 3D - Coffee dripper V60" in SHAP-E*. Even though you could recognize that it was a coffee cup or a dripper the image was really small, bad quality and had space for imporvement. 
+We used the app to play with text to image, audio to text and text to model. I liked the feature of the Optional Modifying Prompt because I think is an easy way to create a character, story, filter on top of GPT-4 intelligence. This helps you prototype and pivot ideas really fast. Moreover I used the app to explore the following:<br> 
+    1. *Original description of the V60 Dripper (text) to image.* The output wasnt really good, I think its because the author wrote the description in a more inspirational and poetic way rather than descriptive. <br>
+    2. *Image of a V60 (image) to text and then to image.* This output was much better than the first one, so we now can assume that the description of this model is very accurate. <br>
+    3. *Previous GPT-4 description (Text) to Zoo CAD model.* This output was really bad, Kitty CAD still has to improve. 
+    4. *Text to 3D - Simple text "Coffee dripper V60" in Zoo CAD.* The output was much better than the previous one, it seems that the dataset has a good reference for basic things. <br>
+    5. "Text to 3D - Coffee dripper V60" in SHAP-E*. Even though you could recognize that it was a coffee cup or a dripper the image was really small, bad quality and had space for imporvement. <br>
 
 ## Reflection 
 I personally like AI and believe it can make a lot of tasks easier and more efficient. However, the potential outcomes of this technology can be both fascinating and creepy.It's important to talk about and be aware of issues like unfairness, how much data is collected, and keeping data private. Before GPT came out, I was in charge of managing an AI bot, and I also enjoy creating images with Midjourney as a hobby. Both experiences have helped me understand AI better. This seminar, however, has expanded my perspective significantly, providing insights from a developer's viewpoint. It has opened new possibilities, encouraging me to experiment with various models for a wide range of purposes.

@@ -1,8 +1,8 @@
 # Storytelling
-## Week 1
+## Week 1 - the importance of telling a story
 <img src="../images/gc.webp" alt="goldencirclemidjourney" style="border-radius: 10px;"> 
 
-# Golden Circle 
+# The Golden Circle 
 <img src="../images/golden circle.JPG" alt="GC notes" style="border-radius: 10px;"> 
 <br>
 *Why* <br>

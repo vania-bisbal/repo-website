@@ -53,3 +53,6 @@ My vision became a crafted foresight of this reimagined future. It's where techn
 I was taught that the character of my project — its tone of voice — must mirror its core values: authoritative, to convey confidence; friendly, to encourage engagement; conversational, to maintain approachability; and matter-of-fact, to underscore our grounded approach. It’s about using a tone that’s as engaging as art itself, as it invites people into a dialogue about reconfiguring their digital habits.
 
 The classes equipped me to communicate with intention. This seminar wasn't just about communication; it was about connection — with my project, with my audience, and with the transformative power of technology used wisely.
+
+
+

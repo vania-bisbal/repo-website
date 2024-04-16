@@ -1,7 +1,7 @@
 # Microchallenge: Immersive Experiences
 <img src="../images/volumetricdisplay.png" alt="volumetric display" style="border-radius: 10px;"> 
 
-For this microchallenge, Jorge and I decided to partner up to create an artifact that reflects our shared interests. We did some brainstorming about our main inqueries and interests. 
+For this microchallenge, Jorge and I decided to partner up to create an artifact that reflects our shared interests. We did some brainstorming about our main inqueries and interests.  Check our [miro](https://miro.com/app/board/uXjVNlfMnmo=/)
 <img src="../images/brainstorming3.png" alt="final brainstorming session" style="border-radius: 10px;"> 
 
 I've been researching by our relationship with technology and how AI might shape us in the future. However, for this microchallenge, I wanted to focus on the *physical* impact of technology use. I was inclined by the approach of technological fatigue. *Technological or digital fatigue is a widespread issue that has gained significant attention, especially in the context of increased screen time and reliance on digital devices for work, education, and socializing.* Digital fatigue manifests as a form of mental exhaustion resulting from excessive screen time, impacting productivity and well-being  

@@ -391,17 +391,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term2/10-AOWS.html</loc>
-         <lastmod>2024-04-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term2/11-ResearchTrip.html</loc>
-         <lastmod>2024-04-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term2/12-DesignEthics.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/term2/10-ResearchTrip.html</loc>
          <lastmod>2024-04-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -412,6 +402,16 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term2/DigitalPrototyping/mycelium.html</loc>
+         <lastmod>2024-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term3/01-AOWS.html</loc>
+         <lastmod>2024-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term3/02-DesignEthics.html</loc>
          <lastmod>2024-04-16</lastmod>
          <changefreq>daily</changefreq>
     </url>

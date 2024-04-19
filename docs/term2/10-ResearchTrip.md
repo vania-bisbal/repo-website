@@ -1,6 +1,5 @@
 # Research trip
 
-C:\Users\vani\MDEF\mdef-template\docs\images\IMG_6627.jpg
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">
@@ -52,5 +51,16 @@ The hiking experience, on the other hand, was a personal journey. It allowed me 
 
 ## About my project
 This trip reinforced my appreciation for nature's complexity and beauty. It also highlighted the importance of conservation and sustainable interaction with our environment. As we presented our projects at the end of the week, I felt a deep sense of responsibility to integrate these insights into my personal and professional life, promoting nature. For my project i was very inspired in the textures and colours of nature. So I decided to explore AI models to combine daily life objects such as lamps or chairs, which usually are built with human-centered materials such as metal or sanded wood, to convert their materiality in terms of texture and color to the ones from Augustrine. It took some time until the prompting in Midjourney and Dall-e could get to the final images but it was really interesting the process of how AI perceive and blend with nature. 
+
+https://www.canva.com/design/DAGAO27Yy-g/XH0paqEBbDxJO5cDDNcklw/view
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGAO27Yy-g&#x2F;XH0paqEBbDxJO5cDDNcklw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGAO27Yy-g&#x2F;XH0paqEBbDxJO5cDDNcklw&#x2F;view?utm_content=DAGAO27Yy-g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Everyday Nature</a> by Vania Bisbal & Sophie Marandon
 
 In conclusion, the research trip to Augustine was not just an academic exercise; it was a transformative experience that deepened my understanding of nature's role in our lives and our impact on it. It was a vivid reminder of the delicate balance we must maintain with our natural surroundings to foster a sustainable future.

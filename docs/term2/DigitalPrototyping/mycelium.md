@@ -19,6 +19,7 @@
         * Set up the base, walls, type of filament etc. 
         * Send to print and observe at least the first 3 layers to see if the printing is doing ok. 
 
+<img src="../images/DigitalPrototyping/3dFile.jpeg" alt="mycelium3d" style="border-radius: 10px;"> 
 <img src="../images/DigitalPrototyping/3dprinting.jpeg" alt="dprinting" style="border-radius: 10px;"> 
 <img src="../images/DigitalPrototyping/mycelium3dprintmold.jpeg" alt="mycelium3dprintmold" style="border-radius: 10px;"> 
 
@@ -51,7 +52,45 @@
         * Wrap mold in plastic and poke small holes 
         * Let it grow for 1 week in the dark. 
 
-      
+<!--*add images and gifs here of the build process* -->
+<!-- Markdown Content -->
+<div class="image-grid">
+  <img src="../images/M1.jpeg" class="grid-item" alt="Mix">
+  <img src="../images/M2.jpeg" class="grid-item" alt="Mix mycelium">
+  <img src="../images/M3.jpeg" class="grid-item portrait-image" alt="Place mix">
+  <img src="../images/M4.jpeg" class="grid-item" alt="Holes">
+  <img src="../images/M5.jpeg" class="grid-item" alt="Rest in the dark">
+  <img src="../images/M6.jpeg" class="grid-item" alt="Result">
+  <!-- Add more images as needed -->
+</div>
+
+
+
+<!-- CSS Styles -->
+<style>
+  /* Styles for the image grid container */
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    /*grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));*/ /*use this line of code to create a responsive grid that will place all images in one continuous row - each image will shrink accordignly*/
+    grid-gap: 10px;
+    /* Additional grid container styles can be added here */
+  }
+
+  /* Styles for individual grid items (images) */
+  .grid-item {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px; /* Add rounded corners to images */
+    /* Additional styles for grid items can be added here */
+  }
+  /* Styles for portrait images */ /*apply this class to any portrait photo in a grid to crop it to landscape: class="grid-item portrait-image" */
+.portrait-image {
+    object-position: center middle; /* Adjust this property to control the cropping of portrait images */
+  }
+</style>
+
 
 **Reflection**
 I began this first trial searching for some inspiration in pinterest and tiktok and found some cool experiences. 

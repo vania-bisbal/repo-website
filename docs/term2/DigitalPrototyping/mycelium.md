@@ -1,7 +1,7 @@
 ## Creating a mycelium sample with a 3D printed mold
 ![Mycellium cover](<../../images/MyceliumIngredients.png>)
 | Complexity | Skills |  Duration |   
-| :---:| :---------: | :---: | 
+| :-----:| :------------: | :-----: | 
 | Medium | Mycelium & 3D printing |1 week |
 
 ## First, let's start with a 3D mold
@@ -41,9 +41,9 @@
         * Camping gas
 
         === "Sterilization"
-        * Sterilise straw and 3D printed mold for 45 min in the pressure cooker 
-        * Desinfect your table and bowls with alcohol
-        * Turn on camping gas for creating a sterilisation bubble
+        * Sterilise straw and 3D printed mold for 45 min in the pressure cooker. 
+        * Disinfect your table and bowls with alcohol.
+        * Turn on camping gas to create a sterilization bubble.
 
 	=== "Mycelium mix procedure"
         * Add the Mycelium Kit to the bowl
@@ -55,15 +55,14 @@
 <!--*add images and gifs here of the build process* -->
 <!-- Markdown Content -->
 <div class="image-grid">
-  <img src="../images/M1.jpeg" class="grid-item" alt="Mix">
-  <img src="../images/M2.jpeg" class="grid-item" alt="Mix mycelium">
-  <img src="../images/M3.jpeg" class="grid-item portrait-image" alt="Place mix">
-  <img src="../images/M4.jpeg" class="grid-item" alt="Holes">
-  <img src="../images/M5.jpeg" class="grid-item" alt="Rest in the dark">
-  <img src="../images/M6.jpeg" class="grid-item" alt="Result">
+  <img src="../images/DigitalPrototyping/M1.jpeg" class="grid-item" alt="Mix">
+  <img src="../images/DigitalPrototyping/M2.jpeg" class="grid-item" alt="Mix mycelium">
+  <img src="../images/DigitalPrototyping/M3.jpeg" class="grid-item portrait-image" alt="Place mix">
+  <img src="../images/DigitalPrototyping/M4.jpeg" class="grid-item" alt="Holes">
+  <img src="../images/DigitalPrototyping/M5.jpeg" class="grid-item" alt="Rest in the dark">
+  <img src="../images/DigitalPrototyping/M6.jpeg" class="grid-item" alt="Result">
   <!-- Add more images as needed -->
 </div>
-
 
 
 <!-- CSS Styles -->

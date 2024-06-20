@@ -1,4 +1,6 @@
 ## Digital Prototyping
+
+## Sensing the body
 About Citlali Hernandez
 https://turbulente.net/
 citlali.hs@gmail.com
@@ -30,6 +32,9 @@ Some projects_
 - Online algorithmic video performance: project Metonimia del cuerpo 
 - Body algortihms: project cinestesia. USing a nano arduino with conductive fabrics. Exploracion de movimientos con artefactos robóticos. 
 - Emodying memes small raspberry: pi zw has wifi and can connect a camera 
+
+
+## Extending the body
 
 FaceOSC x Wekinator_
 Configuration: 

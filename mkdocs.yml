@@ -38,6 +38,7 @@ nav:
         - Digital Prototyping:
             - Bio-bag: term2/DigitalPrototyping/biobag.md
             - Mycelium: term2/DigitalPrototyping/mycelium.md
+            - Furniture: term2/DigitalPrototyping/cnc.md
         - Futures Fair: term2/04-FuturesFair.md
         - Design Studio: term2/05-DesignStudio02.md
         - Measuring the World: term2/03-Measuringtheworld.md
@@ -49,7 +50,8 @@ nav:
   - Term 3: 
         - Atlas of Weak Signal: term3/01-AOWS.md
         - Design Ethics: term3/02-DesignEthics.md
-
+        - Digital Prototyping: term3/03-DigitalPrototyping.md
+        - Microchallenge 3: term3/04-Microchallenge.md
 
 extra:
   social:

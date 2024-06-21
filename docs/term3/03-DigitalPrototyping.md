@@ -70,16 +70,14 @@ About the answers:
 
 
 # Module 5: Extending the body 
-This module had as challenge to create visuals to experience your trained model
+This module challenged us to create visuals to experience our trained model.
 
-First I tried wekinator and its possibilities. Then we also get to know MAX. 
-Foto 
+First, I explored Wekinator and its possibilities. Then, we also got to know MAX.
+{Insert Photo}
 
-In the end I realised that I felt much comfortable using Touchdesigner with Mediapipe for extending the body because I was already in the process to get to know the model and how to make touchdesigner work. 
+In the end, I realized that I felt much more comfortable using TouchDesigner with Mediapipe for extending the body. I was already in the process of understanding the model and how to make TouchDesigner work. It was a very fun process to play with this hand-tracking recognition. It recognized each part of my fingers, so I managed to set the direction of the resized photo from the tip of my ring finger.
 
-
-
-
+[Gif that shows TD](../images/gifs/Recording2024-06-21025643-ezgif.com-video-to-gif-converter.gif)
 
 
 

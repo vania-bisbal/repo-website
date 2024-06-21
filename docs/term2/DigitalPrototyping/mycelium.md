@@ -100,9 +100,9 @@ As I am new to Rhino, I searched for Rhino files on Thingiverse to use as a base
 
 What I find most exciting about mycelium are its unique properties. It’s fireproof, cleans the air, and is biodegradable, making it an excellent material for sustainable design. I am enthusiastic about the numerous possibilities mycelium offers and look forward to exploring them further.
 
-Books
-- Growing gourmet and medicinal mushrooms by Paul Stametz
-Links
+**Books** <br>
+- Growing gourmet and medicinal mushrooms by Paul Stametz <br>
+**Links** <br>
 https://www.core77.com/posts/55675/How-to-Grow-Objects-With-Mushroom-Mycelium
 https://www.instructables.com/id/Making-Mycelium/
 https://www.watsonwolfe.com/2020/02/08/what-is-mushroom-leather/
@@ -114,7 +114,7 @@ https://neffa.nl/nl/portfolio/mycelium-textile/
 https://www.grown.bio/shop/
 https://www.microsoft.com/en-us/research/project/growables/
 
-* Some cool 3D files you can use as molds: * <br>
+**Some cool 3D files you can use as molds:** <br>
 **[Flower pot](https://www.thingiverse.com/thing:3598511)** - it has a system for an easy removal of the cast if you are not using a flexible material. <br>
 **[Duny mold](https://www.thingiverse.com/thing:438250)**- cute character which prints in 10 minutes. <br>
 **[Mold for planter](https://www.thingiverse.com/thing:4089572/files)** <br>
@@ -124,4 +124,3 @@ https://www.microsoft.com/en-us/research/project/growables/
 **[Another pot but taller](https://cults3d.com/en/3d-model/home/igneous-brim-vase)** <br>
 **[Self watering plant pot](https://cults3d.com/en/3d-model/home/self-watering-plant-pot)** <br>
 **[oval ribbed rossette mold](https://cults3d.com/en/3d-model/art/oval-ribbed-rosette-relief-and-mold-3d-print-model)** <br>
-

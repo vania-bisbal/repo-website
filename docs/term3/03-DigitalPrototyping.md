@@ -1,9 +1,7 @@
-## Digital Prototyping
-
-## Module 4: Sensing the body
-About Citlali Hernandez
-https://turbulente.net/
-citlali.hs@gmail.com
+# Module 4: Sensing the body
+About Citlali Hernandez <br>
+https://turbulente.net/ <br>
+citlali.hs@gmail.com <br>
 
 ## Resources_
 - https://direct.mit.edu/books/book/4296/Affective-Computing
@@ -11,12 +9,12 @@ citlali.hs@gmail.com
 - http://www.wekinator.org/ by Rebecca Fiebrink 
 - Course machine learning for musicians and artists - KAdenze by Rebecca Fiebrink 
 - https://marijebaalman.eu/projects.html
-## Recommended books: 
+## Recommended books_
 - [Atlas of emotions](https://atlasofemotions.org/)
 - Understanding emotions - Paul ekman 
 
 
-## Concepts introduced during the session
+## Concepts introduced during the session_
 What is the body: medium or tool of expression AND is also a topic of research
 She does performance art. The body is political and the body has something to tell. 
 If the body is a territorry that we inhabit, how do we connect with it. 

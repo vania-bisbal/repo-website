@@ -20,11 +20,11 @@
         * Set up the base, walls, type of filament etc. 
         * Send to print and observe at least the first 3 layers to see if the printing is doing ok. 
 
-![mycelium3d](../../images/DigitalPrototyping/3dFile.jpeg)
-<img src="../images/DigitalPrototyping/3dFile.jpeg" alt="mycelium3d" style="border-radius: 10px;"> 
-<img src="../images/DigitalPrototyping/3dprinting.jpeg" alt="dprinting" style="border-radius: 10px;"> 
-<img src="../images/DigitalPrototyping/mycelium3dprintmold.jpeg" alt="mycelium3dprintmold" style="border-radius: 10px;"> 
-C:\Users\vani\MDEF\mdef-template\docs\images\DigitalPrototyping\M1.jpeg
+![myceliym3d](<../../images/DigitalPrototyping/3dFile.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/3dprinting.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/mycelium3dprintmold.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/M1.jpeg>)
+
 ## Mycelium Procedure
 !!! example " Ingredients and Procedure"
 
@@ -54,44 +54,11 @@ C:\Users\vani\MDEF\mdef-template\docs\images\DigitalPrototyping\M1.jpeg
         * Wrap mold in plastic and poke small holes 
         * Let it grow for 1 week in the dark. 
 
-<!--*add images and gifs here of the build process* -->
-<!-- Markdown Content -->
-<div class="image-grid">
-  <img src="../images/DigitalPrototyping/M1.jpeg" class="grid-item" alt="Mix">
-  <img src="../images/DigitalPrototyping/M2.jpeg" class="grid-item" alt="Mix mycelium">
-  <img src="../images/DigitalPrototyping/M3.jpeg" class="grid-item portrait-image" alt="Place mix">
-  <img src="../images/DigitalPrototyping/M4.jpeg" class="grid-item" alt="Holes">
-  <img src="../images/DigitalPrototyping/M5.jpeg" class="grid-item" alt="Rest in the dark">
-  <img src="../images/DigitalPrototyping/M6.jpeg" class="grid-item" alt="Result">
-  <!-- Add more images as needed -->
-</div>
-
-
-<!-- CSS Styles -->
-<style>
-  /* Styles for the image grid container */
-  .image-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns */
-    /*grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));*/ /*use this line of code to create a responsive grid that will place all images in one continuous row - each image will shrink accordignly*/
-    grid-gap: 10px;
-    /* Additional grid container styles can be added here */
-  }
-
-  /* Styles for individual grid items (images) */
-  .grid-item {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    border-radius: 5px; /* Add rounded corners to images */
-    /* Additional styles for grid items can be added here */
-  }
-  /* Styles for portrait images */ /*apply this class to any portrait photo in a grid to crop it to landscape: class="grid-item portrait-image" */
-.portrait-image {
-    object-position: center middle; /* Adjust this property to control the cropping of portrait images */
-  }
-</style>
-
+![myceliym3d](<../../images/DigitalPrototyping/M2.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/M3.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/M4.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/M5.jpeg>)
+![myceliym3d](<../../images/DigitalPrototyping/M6.jpeg>)
 
 **Reflection**
 Learning to grow mycelium has been a fascinating experience. I started by looking for inspiration on Pinterest and TikTok, where I saw people creating impressive items like lamps and containers out of mycelium.

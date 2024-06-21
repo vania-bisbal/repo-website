@@ -15,8 +15,7 @@ citlali.hs@gmail.com <br>
 
 
 ## Concepts introduced during the session_
-What is the body: medium or tool of expression AND is also a topic of research
-She does performance art. The body is political and the body has something to tell. 
+What is the body: medium or tool of expression AND is also a topic of research. Citlali does performance art. The body is political and the body has something to tell. 
 If the body is a territorry that we inhabit, how do we connect with it. 
 Data can be translated into other types of signals. 
 Emojis as a way of communication. 
@@ -32,7 +31,7 @@ What makes us emotional? physical event, social interactions, remembering/imagin
 - Body algortihms: project cinestesia. Using a nano arduino with conductive fabrics. Exploracion de movimientos con artefactos robóticos. 
 - Emodying memes small raspberry: pi zw has wifi and can connect a camera 
 
-## Hands-on experimentation: Prototype your wearable and experiment with your training model.
+## Hands-on experimentation: Prototype your wearable and experiment with your training model
 
 I joined forces with Jorge to develop a glove as a soft sensor prototype. We used Velostat as the main material. Velostat is a variable resistor that lets electricity flow through a system or not, functioning similarly to a potentiometer. It allows modulation of how electricity flows within a circuit.
 

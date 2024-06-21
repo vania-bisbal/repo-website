@@ -1,5 +1,5 @@
 ## Fabricate a piece of furniture
-![letscut](<../../images/DigitalPrototyping/Lets cute.png>)
+![letscut](<../../images/DigitalPrototyping/Letscute.png>)
 
 | Complexity | Skills |  Duration |   
 | :---:| :---------: | :---: | 

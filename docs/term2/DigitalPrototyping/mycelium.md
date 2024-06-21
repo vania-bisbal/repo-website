@@ -1,5 +1,5 @@
 ## Creating a mycelium sample with a 3D printed mold
-![Mycellium cover](<../../images/MyceliumIngredients.png>)
+![Mycellium cover](<../../images/DigitalPrototyping\MyceliumIngredients.png>)
 
 | Complexity | Skills |  Duration |   
 | :-----:| :-------: | :-----: | 

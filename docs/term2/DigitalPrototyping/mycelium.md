@@ -2,10 +2,6 @@
 ![Mycellium cover](<../../images/MyceliumIngredients.png>)
 
 | Complexity | Skills |  Duration |   
-| :---:| :---------: | :---: | 
-| Medium | Bio Plastics & Laser |5 days |
-
-| Complexity | Skills |  Duration |   
 | :-----:| :-------: | :-----: | 
 | Medium | Mycelium & 3D printing |1 week |
 
@@ -24,10 +20,11 @@
         * Set up the base, walls, type of filament etc. 
         * Send to print and observe at least the first 3 layers to see if the printing is doing ok. 
 
+![mycelium3d](../../images/DigitalPrototyping/3dFile.jpeg)
 <img src="../images/DigitalPrototyping/3dFile.jpeg" alt="mycelium3d" style="border-radius: 10px;"> 
 <img src="../images/DigitalPrototyping/3dprinting.jpeg" alt="dprinting" style="border-radius: 10px;"> 
 <img src="../images/DigitalPrototyping/mycelium3dprintmold.jpeg" alt="mycelium3dprintmold" style="border-radius: 10px;"> 
-
+C:\Users\vani\MDEF\mdef-template\docs\images\DigitalPrototyping\M1.jpeg
 ## Mycelium Procedure
 !!! example " Ingredients and Procedure"
 

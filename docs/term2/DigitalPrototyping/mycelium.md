@@ -1,7 +1,12 @@
 ## Creating a mycelium sample with a 3D printed mold
 ![Mycellium cover](<../../images/MyceliumIngredients.png>)
+
 | Complexity | Skills |  Duration |   
-| :-----:| :------------: | :-----: | 
+| :---:| :---------: | :---: | 
+| Medium | Bio Plastics & Laser |5 days |
+
+| Complexity | Skills |  Duration |   
+| :-----:| :-------: | :-----: | 
 | Medium | Mycelium & 3D printing |1 week |
 
 ## First, let's start with a 3D mold

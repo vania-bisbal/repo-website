@@ -1,5 +1,5 @@
-# Sensing the body
 ## Module 4
+# Sensing the body
 About Citlali Hernandez <br>
 https://turbulente.net/ <br>
 citlali.hs@gmail.com <br>
@@ -40,6 +40,38 @@ I joined forces with Jorge to develop a glove as a soft sensor prototype. We use
 
 We designed this glove to measure the pressure an artist might apply to a material, such as clay. We sewed the neoprene to create a firm and consistent glove. Then, we connected the glove to an OSC (Open Sound Control) to receive the input and to be able to train the model. The glove sends data each time it touches the material, allowing for precise measurement of pressure.
 
+### Pressure Sensor CODE
+* Code for reading the change in values when pressing against the material such as.
+
+```
+
+int sensorPin = A0; // select the input pin for the potetntiometer
+
+int sensorValue = 0; // variable to store the value coming from the sensor
+
+int pinD = D8;
+int b = 0;
+
+
+void setup() {
+  // declare the ledPin as an OUTPUT:
+  pinMode(pinD, OUTPUT);
+  pinMode(sensorPin, INPUT);
+  Serial.begin(9600);
+
+}
+
+void loop() {
+  // read the value from the sensor:
+ // b = !b; // asigno el contrario
+digitalWrite(pinD, HIGH);
+sensorValue = analogRead(sensorPin) ;
+Serial.println(sensorValue) ;
+delay (200);
+}
+
+```
+
 C:\Users\vani\MDEF\mdef-template\docs\images\digitalprototyping.png
 
 As an experiment, we trained the model to recognize a "surprised" face when the material is touched, adding an element of interaction and feedback to the process.
@@ -67,7 +99,8 @@ About the answers:
 - Type *custom* > configure> osc message> /cara > with> integer (which means 2 answers)
 
 
-# Module 5: Extending the body 
+## Module 5
+# Extending the body 
 This module challenged us to create visuals to experience our trained model.
 
 First, I explored Wekinator and its possibilities. Then, we also got to know MAX.

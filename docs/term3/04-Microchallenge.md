@@ -11,6 +11,15 @@ An art piece digital twin...
 After exploring various ways to connect Mediapipe, I discovered a method using a Mediapipe API for TouchDesigner. You can find the repo XXXX here and a YouTube tutorial. Once installed, Mediapipe can be used for pose tracking, hand tracking, object recognition, and other gesture recognitions.
 
 ## Electronic Gloves Prototype
+### TOOLS
+
+!!! example ""
+
+    * [ELEGOO Electronic Fun Kit](https://www.elegoo.com/blogs/arduino-projects/elegoo-electronic-fun-kit-upgraded-electronic-fun-kit-tutorial) 
+    * Software:  [Arduino IDE](https://docs.arduino.cc/software/ide-v1)
+    * Hardware: [Seeed Studio XIAO ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)
+    
+
 While using Mediapipe's hand tracking, I realized that hand-tracking alone wasn't sufficient to measure the artist's effort while creating a piece. So, I decided to create a pair of electronic gloves to capture the pressure exerted on the material.
 
 To create the gloves, I used documentation on soft robotics from Fabricademy students. I used neoprene for the glove prototype and Velostat for the circuit. I also used conductive fabric and conductive thread to test the conductivity.

@@ -76,6 +76,10 @@ C:\Users\vani\MDEF\mdef-template\docs\images\digitalprototyping.png
 
 As an experiment, we trained the model to recognize a "surprised" face when the material is touched, adding an element of interaction and feedback to the process.
 
+**About Wekinator** <br>
+Wekinator is a machine learning platform that enables users to create interactive systems by using algorithms to recognize patterns in real-time input data. It is designed to be accessible to non-experts and allows the rapid development of interactive systems without needing to write code. Wekinator can work with various inputs such as sensors, cameras, and microphones, and it outputs to different software and hardware platforms, enabling the creation of music, games, and interactive art installations.
+![wekinator](../images/wekinator.png)
+
 C:\Users\vani\MDEF\mdef-template\docs\images\surpriseproject.jpg
 FOTOS con sophie con wekinator
 
@@ -104,14 +108,11 @@ About the answers:
 This module challenged us to create visuals to experience our trained model.
 
 First, I explored Wekinator and its possibilities. Then, we also got to know MAX.
-{Insert Photo}
+
+
+**About MAX** <br>
+Max, also known as Max/MSP, is a visual programming language for music and multimedia. Developed by Cycling '74, it is used by composers, performers, software designers, researchers, and artists for creating interactive audio and visual applications. Max provides a graphical user interface where users can connect objects to create custom signal processing, user interfaces, and other multimedia applications. It's highly versatile and supports various types of media, making it a popular tool in the fields of electronic music, multimedia art, and sound design.
 
 In the end, I realized that I felt much more comfortable using TouchDesigner with Mediapipe for extending the body. I was already in the process of understanding the model and how to make TouchDesigner work. It was a very fun process to play with this hand-tracking recognition. It recognized each part of my fingers, so I managed to set the direction of the resized photo from the tip of my ring finger.
 
-[Gif that shows TD](../images/gifs/Recording2024-06-21025643-ezgif.com-video-to-gif-converter.gif)
-
-
-
-
-
-
+![Gif that shows TD](../images/gifs/Recording2024-06-21025643-ezgif.com-video-to-gif-converter.gif)

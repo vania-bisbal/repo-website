@@ -35,10 +35,15 @@ What makes us emotional? physical event, social interactions, remembering/imagin
 ## Hands-on experimentation: Prototype your wearable and experiment with your training model
 
 I joined forces with Jorge to develop a glove as a soft sensor prototype. We used Velostat as the main material. Velostat is a variable resistor that lets electricity flow through a system or not, functioning similarly to a potentiometer. It allows modulation of how electricity flows within a circuit.
+![button1](../../images/button1.jpeg)
 
-[Insert Photossssssss Here]
+## The circuit
+![circuit](../../images/button2.png)
 
 We designed this glove to measure the pressure an artist might apply to a material, such as clay. We sewed the neoprene to create a firm and consistent glove. Then, we connected the glove to an OSC (Open Sound Control) to receive the input and to be able to train the model. The glove sends data each time it touches the material, allowing for precise measurement of pressure.
+![button1](../../images/button3.jpeg)
+![button1](../../images/button3.1.jpeg)
+![button1](../../images/button3.2.jpeg)
 
 ### Pressure Sensor CODE
 * Code for reading the change in values when pressing against the material such as.
@@ -71,8 +76,8 @@ delay (200);
 }
 
 ```
-
-C:\Users\vani\MDEF\mdef-template\docs\images\digitalprototyping.png
+![button1](../../images/button4.jpeg)
+![button1](../../images/button5.jpeg)
 
 As an experiment, we trained the model to recognize a "surprised" face when the material is touched, adding an element of interaction and feedback to the process.
 
@@ -80,7 +85,6 @@ As an experiment, we trained the model to recognize a "surprised" face when the 
 Wekinator is a machine learning platform that enables users to create interactive systems by using algorithms to recognize patterns in real-time input data. It is designed to be accessible to non-experts and allows the rapid development of interactive systems without needing to write code. Wekinator can work with various inputs such as sensors, cameras, and microphones, and it outputs to different software and hardware platforms, enabling the creation of music, games, and interactive art installations.
 ![wekinator](../images/wekinator.png)
 
-C:\Users\vani\MDEF\mdef-template\docs\images\surpriseproject.jpg
 FOTOS con sophie con wekinator
 
 Developing the soft sensor glove showcased the versatility of soft robotics in creative applications. It demonstrated how responsive simple materials can be used to capture intricate details of artistic processes. This project has motivated me to delve deeper into the field of soft robotics and explore its diverse applications in both art and other domains.

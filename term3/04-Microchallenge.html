@@ -1750,14 +1750,17 @@
   <h1>Microchallenge 3</h1>
 
 <h2 id="microchallenge-digital-twin">Microchallenge: Digital Twin<a class="headerlink" href="#microchallenge-digital-twin" title="Permanent link">&para;</a></h2>
-<p>For this microchallenge, I wanted to learn more about TouchDesigner and explore its potential with different inputs. Over the past few months, I have been intrigued by Mediapipe and its various applications. Jorge and I were exploring its uses and its connection to craftsmanship. Although we didn&rsquo;t collaborate directly on this challenge, each of us focused on learning a different skill. We worked together to better understand the tool and develop some workarounds in our processes.</p>
+<p>For this microchallenge, I wanted to learn more about TouchDesigner and explore its potential with different inputs. Over the past few months, I have been intrigued by Mediapipe and its various applications. Jorge and I were exploring its uses and its connection to craftsmanship. Although we didn&rsquo;t collaborate directly on this challenge, each of us focused on learning a different skill. We worked together to better understand the tool and develop some workarounds in our processes.
+<img alt="microchallenge3" src="../images/micro1.png" /></p>
 <h2 id="finding-inspiration-in-touchdesigner">Finding Inspiration in TouchDesigner<a class="headerlink" href="#finding-inspiration-in-touchdesigner" title="Permanent link">&para;</a></h2>
 <p>TouchDesigner artists are creating remarkable work using sensors, cameras, audio, voice, and more. It offers an immersive experience. Here are some designers using TouchDesigner:</p>
 <h2 id="the-concept">The Concept<a class="headerlink" href="#the-concept" title="Permanent link">&para;</a></h2>
-<p>An art piece digital twin&hellip;</p>
+<p>An art piece digital twin, it visually represents the effort and process involved in creating an art piece, providing a deeper understanding and appreciation of the artistry.</p>
 <h2 id="mediapipe">Mediapipe<a class="headerlink" href="#mediapipe" title="Permanent link">&para;</a></h2>
-<p>After exploring various ways to connect Mediapipe, I discovered a method using a Mediapipe API for TouchDesigner. You can find the repo XXXX here and a YouTube tutorial. Once installed, Mediapipe can be used for pose tracking, hand tracking, object recognition, and other gesture recognitions.</p>
+<p>After exploring various ways to connect Mediapipe, I discovered a method using a Mediapipe GPU Plugin for TouchDesigner.Here is the <a href="https://www.youtube.com/watch?v=Cx4Ellaj6kk">tutorial</a>, made by Torin Blackensmith, from which I learned. Additionally, <a href="https://github.com/vania-bisbal/mediapipe_api">here is the repo</a> where I include the Mediapipe installation and the Arduino code I will be using later. Once Mediapipe is installed in TouchDesigner, it can be used for pose tracking, hand tracking, object recognition, and other gesture recognitions.</p>
 <h2 id="electronic-gloves-prototype">Electronic Gloves Prototype<a class="headerlink" href="#electronic-gloves-prototype" title="Permanent link">&para;</a></h2>
+<p><img alt="microchallenge3" src="../images/electronicgloves.jpeg" />
+<img alt="microchallenge3" src="../images/gloves.jpeg" /></p>
 <h3 id="tools">TOOLS<a class="headerlink" href="#tools" title="Permanent link">&para;</a></h3>
 <div class="admonition example">
 <ul>
@@ -1768,7 +1771,32 @@
 </div>
 <p>While using Mediapipe&rsquo;s hand tracking, I realized that hand-tracking alone wasn&rsquo;t sufficient to measure the artist&rsquo;s effort while creating a piece. So, I decided to create a pair of electronic gloves to capture the pressure exerted on the material.</p>
 <p>To create the gloves, I used documentation on soft robotics from Fabricademy students. I used neoprene for the glove prototype and Velostat for the circuit. I also used conductive fabric and conductive thread to test the conductivity.</p>
-<p>When the gloves were ready, I connected them with crocodile cables to an Arduino to run the code and start receiving data. Here is the Arduino code: XXXX</p>
+<p>When the gloves were ready, I connected them with crocodile cables to an Arduino to run the code and start receiving data. Here is the Arduino code.</p>
+<ul>
+<li>Code for reading the change in values when pressing against the material with the gloves:</li>
+</ul>
+<div class="highlight"><pre><span></span><code>int sensorPin = A1;    // Define the pin for sensor input
+int sensorValue = 0;   // Variable to store the sensor value
+
+int sensorPin2 = A2;    // Define the SECOND pin for sensor input
+int sensorValue2 = 0;   // Variable to store the sensor value
+
+void setup() {
+  pinMode(sensorPin,INPUT);
+  pinMode(sensorPin2,INPUT);
+  Serial.begin(9600);    // Initialize serial communication at 9600 baud rate
+}
+
+void loop() {
+  sensorValue = analogRead(sensorPin); // Read the digital value from sensorPin
+  Serial.print(sensorValue);          // Print the sensor value to the Serial Monitor
+  Serial.print(&quot;,&quot;);
+  //digitalWrite(pinD, sensorValue);      // Optionally write this value to pinD (for example, to turn on/off a LED)
+  sensorValue2 = analogRead(sensorPin2); // Read the digital value from sensorPin
+  Serial.println(sensorValue2);          // Print the sensor value to the Serial Monitor
+  delay(200);                           // Wait for 500 milliseconds before next read
+}
+</code></pre></div>
 <h2 id="here-are-more-resources-about-soft-robotics-i-found-interesting">Here are more resources about soft robotics I found interesting:<a class="headerlink" href="#here-are-more-resources-about-soft-robotics-i-found-interesting" title="Permanent link">&para;</a></h2>
 <h2 id="-">-<a class="headerlink" href="#-" title="Permanent link">&para;</a></h2>
 <h2 id="touchdesigner">TouchDesigner<a class="headerlink" href="#touchdesigner" title="Permanent link">&para;</a></h2>
@@ -1777,7 +1805,7 @@
 <h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">&para;</a></h2>
 <p>For the final setup of the prototype, I recycled a piece of wood from my previous microchallenge. I realized it was easier and more efficient to use my mobile camera instead of the laptop one. This allowed for better placement and adaptability to different artistic practices. For example, ceramics differ from glass blowing. I used OBS Studio to control the cameras I connected to TouchDesigner. It automatically appears as an option in TouchDesigner. Additionally, I used VDO.Ninja to broadcast from my phone. You can also broadcast from anywhere in the world using a QR code. Here you can see the tutorial: XXXX</p>
 <h2 id="output-video-and-experience">Output Video and Experience<a class="headerlink" href="#output-video-and-experience" title="Permanent link">&para;</a></h2>
-<p>XXXXX video link</p>
+<p><a href="https://vimeo.com/961037341">https://vimeo.com/961037341</a></p>
 <p>Learning more about TouchDesigner and diving into additional areas like soft robotics, Arduino, Python, and OBS Cam was a fascinating experience. I had a lot of fun and was deeply interested in the immersive experiences you can create by tracking or monitoring gestures, poses, and hands from a camera. There were some challenges; initially, I wanted to create a matrix for the gloves to receive more data or even measure the fingers. However, Santi suggested keeping it simple (MVP) so I could manage to make everything work. Luckily, I followed that advice and continued with simple gloves; otherwise, I would have run out of time. I am eager to continue exploring soft robotics and TouchDesigner with the Mediapipe API.</p>
 <p>Matrix copper inspiration <a href="https://www.kobakant.at/DIY/?p=7943">https://www.kobakant.at/DIY/?p=7943</a>
 <a href="https://www.youtube.com/watch?v=swTN-SDRViU">https://www.youtube.com/watch?v=swTN-SDRViU</a></p>
@@ -1793,8 +1821,7 @@ everyday objects <a href="https://hotelsabovepar.com/objective-gallery/">https:/
 <p><a href="https://www.meikeharde.com/portfolio-item/chromatographics/">https://www.meikeharde.com/portfolio-item/chromatographics/</a> chromatographics</p>
 <p>mediapipe <a href="https://github.com/mgyong/awesome-mediapipe?tab=readme-ov-file#desktop-examples">https://github.com/mgyong/awesome-mediapipe?tab=readme-ov-file#desktop-examples</a>
 torin mediapipe <a href="https://github.com/torinmb/mediapipe-touchdesigner/releases">https://github.com/torinmb/mediapipe-touchdesigner/releases</a></p>
-<p><a href="https://derivative.ca/community-post/tutorial/overstim-sim-experience/68549">https://derivative.ca/community-post/tutorial/overstim-sim-experience/68549</a>
-carme</p>
+<p><a href="https://derivative.ca/community-post/tutorial/overstim-sim-experience/68549">https://derivative.ca/community-post/tutorial/overstim-sim-experience/68549</a></p>
 
 
 
@@ -1815,7 +1842,7 @@ carme</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 21, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 22, 2024</span>
   </span>
 
     

@@ -31,7 +31,7 @@ or the workpiece) using a variety of cutting tools.
 ![cncdraw](../../images/DigitalPrototyping/out.jpeg)
 
 ## Facts
-We designed a side table featuring a monkey with bananas. We created the G-code, understood the milling process, ensured proper spacing for assembly, sanded everything, and applied a finish to the wood.
+Me and Qianyin, designed and build a side table featuring a monkey with bananas. We created the G-code, understood the milling process, ensured proper spacing for assembly, sanded everything, and applied a finish to the wood.
 
 ## Feelings
 I felt a mix of curiosity and apprehension as we tackled the project. Seeing the final assembled piece brought a sense of accomplishment and joy.

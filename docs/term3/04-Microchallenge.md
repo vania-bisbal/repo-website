@@ -5,6 +5,9 @@ For this microchallenge, I wanted to learn more about TouchDesigner and explore 
 
 ## Finding Inspiration in TouchDesigner
 TouchDesigner artists are creating remarkable work using sensors, cameras, audio, voice, and more. It offers an immersive experience. Here are some designers using TouchDesigner:
+- https://www.instagram.com/perspek.steven?igsh=MTd3NDl3ZmYzcDdrZA==
+- https://www.instagram.com/nouses_kou?igsh=amRya2xuMGZ6OTY1
+- https://www.instagram.com/paketa12?igsh=b2VxZ3YwdzNpMjE1
 
 ## The Concept
 An art piece digital twin, it visually represents the effort and process involved in creating an art piece, providing a deeper understanding and appreciation of the artistry.
@@ -61,14 +64,14 @@ void loop() {
 
 
 Here are more resources about soft robotics I found interesting:
--
--
--
+- [Turbulente](https://turbulente.net/transceptor-cam)
+- [Skin electronics](https://cheme.stanford.edu/layers-self-healing-electronic-skin-realign-autonomously-when-cut)
+- [Duo Skin](https://duoskin.media.mit.edu/)
 
 ## TouchDesigner
 After validating the data from the gloves, I watched some tutorials to send the serial plotter data from Arduino to TouchDesigner. Initially, I encountered some difficulties, but it was relatively easy to set up once I got the hang of it. You need to open a serial component to start receiving data from your Arduino. Ensure the data is separated by commas for easy identification. Since I had right and left gloves, I needed to isolate each data point.
 
-With both inputs—Mediapipe hand-tracking values and the pressure from the gloves—I used some tutorials to create effects. I enjoyed the Blob Tracking and the particle rain effects. Here are some of the tutorials: XXXX
+With both inputs—Mediapipe hand-tracking values and the pressure from the gloves—I used some tutorials to create effects. I enjoyed the Blob Tracking and the particle rain effects. Here are some of the tutorials: XXX
 
 ## Setup
 For the final setup of the prototype, I recycled a piece of wood from my previous microchallenge. I realized it was easier and more efficient to use my mobile camera instead of the laptop one. This allowed for better placement and adaptability to different artistic practices. For example, ceramics differ from glass blowing. I used OBS Studio to control the cameras I connected to TouchDesigner. It automatically appears as an option in TouchDesigner. Additionally, I used VDO.Ninja to broadcast from my phone. You can also broadcast from anywhere in the world using a QR code. Here you can see the tutorial: XXXX

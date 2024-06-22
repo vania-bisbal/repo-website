@@ -71,16 +71,17 @@ Here are more resources about soft robotics I found interesting:
 ## TouchDesigner
 After validating the data from the gloves, I watched some tutorials to send the serial plotter data from Arduino to TouchDesigner. Initially, I encountered some difficulties, but it was relatively easy to set up once I got the hang of it. You need to open a serial component to start receiving data from your Arduino. Ensure the data is separated by commas for easy identification. Since I had right and left gloves, I needed to isolate each data point.
 
-With both inputs—Mediapipe hand-tracking values and the pressure from the gloves—I used some tutorials to create effects. I enjoyed the Blob Tracking and the particle rain effects. Here are some of the tutorials: XXX
+With both inputs—Mediapipe hand-tracking values and the pressure from the gloves—I used some tutorials to create effects. I enjoyed the Blob Tracking and the particle rain effects. Here are some of the [tutorial](https://www.youtube.com/watch?v=TbM2_Cvygww)
 
 ## Setup
-For the final setup of the prototype, I recycled a piece of wood from my previous microchallenge. I realized it was easier and more efficient to use my mobile camera instead of the laptop one. This allowed for better placement and adaptability to different artistic practices. For example, ceramics differ from glass blowing. I used OBS Studio to control the cameras I connected to TouchDesigner. It automatically appears as an option in TouchDesigner. Additionally, I used VDO.Ninja to broadcast from my phone. You can also broadcast from anywhere in the world using a QR code. Here you can see the tutorial: XXXX
+For the final setup of the prototype, I recycled a piece of wood from my previous microchallenge. I realized it was easier and more efficient to use my mobile camera instead of the laptop one. This allowed for better placement and adaptability to different artistic practices. For example, ceramics differ from glass blowing. I used OBS Studio to control the cameras I connected to TouchDesigner. It automatically appears as an option in TouchDesigner. Additionally, I used VDO.Ninja to broadcast from my phone. You can also broadcast from anywhere in the world using a QR code. Here you can see the [tutorial](https://www.youtube.com/watch?v=R3BTpTEh5kE&t=187s)
 
 ## Output Video and Experience
 https://vimeo.com/961037341
 
 Learning more about TouchDesigner and diving into additional areas like soft robotics, Arduino, Python, and OBS Cam was a fascinating experience. I had a lot of fun and was deeply interested in the immersive experiences you can create by tracking or monitoring gestures, poses, and hands from a camera. There were some challenges; initially, I wanted to create a matrix for the gloves to receive more data or even measure the fingers. However, Santi suggested keeping it simple (MVP) so I could manage to make everything work. Luckily, I followed that advice and continued with simple gloves; otherwise, I would have run out of time. I am eager to continue exploring soft robotics and TouchDesigner with the Mediapipe API.
 
+## A little bit more of personal inspiration for upcomming projects
 Matrix copper inspiration https://www.kobakant.at/DIY/?p=7943
 https://www.youtube.com/watch?v=swTN-SDRViU
 
